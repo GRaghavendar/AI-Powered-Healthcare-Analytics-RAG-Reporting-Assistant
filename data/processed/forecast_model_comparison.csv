@@ -1,0 +1,5 @@
+model,test_periods,mae,rmse,mape,selected_default,notes
+previous_month_baseline,18,17.61,20.67,9.11,False,Comparison model for benchmarking forecast accuracy.
+three_month_moving_average,18,21.31,25.0,10.98,False,Comparison model for benchmarking forecast accuracy.
+linear_trend_with_seasonal_anchor,18,22.81,25.72,11.56,True,Default reporting model because it is transparent and explainable.
+random_forest_regressor,18,16.75,18.4,8.64,False,Comparison model for benchmarking forecast accuracy.

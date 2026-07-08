@@ -1,0 +1,24 @@
+segment_type,segment_value,total_cases,case_share,fatality_rate,icu_rate,avg_hospital_los_days
+region,Capital,932,3.73,5.36,26.18,6.24
+region,Central,293,1.17,5.46,24.91,5.89
+region,Hudson,790,3.16,4.3,25.82,6.3
+region,Long Island,661,2.64,5.9,25.72,6.25
+region,Metro,1421,5.68,5.07,27.23,6.34
+region,Northern,251,1.0,5.18,31.47,6.33
+region,Western,652,2.61,6.44,23.93,6.18
+age_group,0-17,917,3.67,5.89,26.61,6.25
+age_group,18-34,948,3.79,5.27,24.37,6.23
+age_group,35-49,837,3.35,4.06,24.01,6.13
+age_group,50-64,842,3.37,5.7,24.23,6.2
+age_group,65+,1456,5.82,5.49,29.74,6.37
+adult_pediatric,Adult,4083,16.33,5.19,26.18,6.26
+adult_pediatric,Pediatric,917,3.67,5.89,26.61,6.25
+race,American Indian or Alaska Native,54,0.22,5.56,29.63,6.72
+race,Asian,391,1.56,5.88,24.81,6.21
+race,Black or African American,739,2.96,6.36,27.2,6.33
+race,Hispanic or Latino,905,3.62,4.75,28.18,6.24
+race,Other or Unknown,296,1.18,7.09,20.27,6.01
+race,White,2615,10.46,4.93,26.16,6.26
+gender,Female,2340,9.36,5.09,26.71,6.26
+gender,Male,2550,10.2,5.61,26.08,6.27
+gender,Unknown,110,0.44,3.64,20.91,5.92

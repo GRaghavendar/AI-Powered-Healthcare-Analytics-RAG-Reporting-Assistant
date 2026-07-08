@@ -1,0 +1,4 @@
+month,forecast_total_cases,lower_bound,upper_bound,model
+2026-01,197,155,238,linear_trend_with_seasonal_anchor
+2026-02,201,159,243,linear_trend_with_seasonal_anchor
+2026-03,205,163,247,linear_trend_with_seasonal_anchor

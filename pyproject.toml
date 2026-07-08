@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68,<82", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-powered-healthcare-analytics-rag-reporting-assistant"
+version = "0.1.0"
+description = "Healthcare trauma analytics with LangGraph, Chroma RAG, PDF/OCR ingestion, and a local open-source LLM."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Raghavendar Gorintla" }]
+dependencies = [
+  "pandas>=2.0",
+  "numpy>=1.24",
+  "scikit-learn>=1.4",
+  "streamlit>=1.32",
+  "altair>=5.0",
+  "langgraph>=0.2",
+  "chromadb>=0.5",
+  "sentence-transformers>=3.0",
+  "transformers>=4.41",
+  "torch>=2.2",
+  "torchvision>=0.17",
+  "requests>=2.31",
+  "beautifulsoup4>=4.12",
+  "pymupdf>=1.24",
+  "pillow>=10.0",
+  "pytesseract>=0.3.10"
+]
+
+[project.scripts]
+healthcare-pipeline = "healthcare_analytics.pipeline:main"
+healthcare-rag-build = "healthcare_analytics.rag:build_index_cli"
+healthcare-rag-ask = "healthcare_analytics.rag:ask_cli"
+healthcare-rag-eval = "healthcare_analytics.rag_evaluation:main"
+healthcare-ingest-docs = "healthcare_analytics.document_ingestion:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

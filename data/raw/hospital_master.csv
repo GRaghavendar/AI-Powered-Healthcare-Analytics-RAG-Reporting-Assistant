@@ -1,0 +1,9 @@
+hospital_id,hospital_name,region,trauma_level,bed_count,pediatric_capable
+H001,North River Trauma Center,Capital,Level I,620,True
+H002,Lakeview Regional Medical,Western,Level II,410,True
+H003,Hudson Valley Trauma Institute,Hudson,Level I,540,True
+H004,Metro East Medical Center,Metro,Level II,365,False
+H005,Central County Hospital,Central,Level III,250,False
+H006,Harborview Emergency Hospital,Metro,Level I,700,True
+H007,Pine Hills Medical Center,Northern,Level III,215,False
+H008,South Bay Trauma Center,Long Island,Level II,455,True

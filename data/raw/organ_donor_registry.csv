@@ -1,0 +1,1751 @@
+donor_record_id,registration_month,region,age_group,race,gender,registration_location,opt_status,active_status,comments_category
+DON0000001,2024-01-01,Metro,65+,Black or African American,Female,Community Event,Opt In,Active,Address update
+DON0000002,2024-07-01,Central,0-17,White,Male,DMV,Opt In,Active,Needs follow-up
+DON0000003,2024-11-01,Hudson,65+,Asian,Female,DMV,Opt Out,Active,Address update
+DON0000004,2024-03-01,Capital,65+,Asian,Female,DMV,Opt In,Active,Preference clarification
+DON0000005,2024-06-01,Long Island,35-49,White,Male,Other,Unknown,Active,No comment
+DON0000006,2024-02-01,Metro,0-17,Other or Unknown,Male,DMV,Opt In,Active,No comment
+DON0000007,2024-01-01,Long Island,18-34,White,Female,Community Event,Opt In,Active,No comment
+DON0000008,2024-08-01,Metro,35-49,Hispanic or Latino,Male,Online,Opt In,Active,Preference clarification
+DON0000009,2025-07-01,Hudson,65+,White,Male,DMV,Opt Out,Active,No comment
+DON0000010,2025-03-01,Long Island,35-49,Other or Unknown,Male,Community Event,Opt In,Active,No comment
+DON0000011,2025-09-01,Long Island,50-64,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0000012,2025-09-01,Metro,65+,White,Male,Community Event,Opt In,Active,No comment
+DON0000013,2024-08-01,Hudson,65+,White,Female,DMV,Opt In,Active,Address update
+DON0000014,2024-01-01,Metro,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0000015,2025-04-01,Metro,18-34,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0000016,2024-07-01,Central,65+,White,Male,Other,Opt In,Active,No comment
+DON0000017,2025-11-01,Hudson,65+,Hispanic or Latino,Male,Other,Opt In,Active,No comment
+DON0000018,2025-07-01,Metro,50-64,Black or African American,Female,DMV,Unknown,Active,No comment
+DON0000019,2024-10-01,Long Island,50-64,White,Male,Other,Opt Out,Active,Address update
+DON0000020,2025-02-01,Hudson,65+,Hispanic or Latino,Female,DMV,Opt In,Active,Preference clarification
+DON0000021,2024-07-01,Hudson,50-64,Hispanic or Latino,Female,DMV,Unknown,Active,Duplicate review
+DON0000022,2025-10-01,Metro,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0000023,2024-06-01,Hudson,35-49,Black or African American,Female,DMV,Opt Out,Active,No comment
+DON0000024,2025-06-01,Long Island,50-64,Black or African American,Female,Other,Opt In,Active,Needs follow-up
+DON0000025,2025-12-01,Capital,50-64,Black or African American,Male,DMV,Opt Out,Active,No comment
+DON0000026,2025-09-01,Capital,50-64,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0000027,2024-09-01,Metro,65+,American Indian or Alaska Native,Male,DMV,Opt In,Active,No comment
+DON0000028,2024-04-01,Metro,65+,White,Male,Online,Opt Out,Active,No comment
+DON0000029,2024-10-01,Hudson,50-64,White,Male,Hospital,Opt In,Active,No comment
+DON0000030,2024-03-01,Metro,35-49,White,Female,Online,Opt In,Active,No comment
+DON0000031,2024-11-01,Hudson,65+,Asian,Female,Community Event,Opt In,Inactive,No comment
+DON0000032,2025-07-01,Metro,0-17,White,Female,Online,Opt Out,Active,No comment
+DON0000033,2024-10-01,Long Island,18-34,White,Male,Other,Opt Out,Active,No comment
+DON0000034,2024-04-01,Hudson,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,Needs follow-up
+DON0000035,2024-10-01,Long Island,18-34,Black or African American,Female,Hospital,Opt Out,Active,No comment
+DON0000036,2024-08-01,Long Island,50-64,Hispanic or Latino,Female,DMV,Opt In,Deceased,No comment
+DON0000037,2025-07-01,Western,50-64,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0000038,2024-06-01,Metro,0-17,Other or Unknown,Male,Other,Opt In,Active,No comment
+DON0000039,2025-12-01,Hudson,18-34,White,Female,DMV,Opt In,Active,Needs follow-up
+DON0000040,2024-02-01,Metro,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0000041,2024-02-01,Long Island,0-17,White,Female,DMV,Opt Out,Active,No comment
+DON0000042,2025-03-01,Metro,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0000043,2025-05-01,Capital,18-34,White,Female,DMV,Unknown,Active,No comment
+DON0000044,2024-01-01,Metro,35-49,White,Male,Hospital,Unknown,Active,No comment
+DON0000045,2025-04-01,Metro,50-64,White,Female,DMV,Unknown,Active,No comment
+DON0000046,2025-01-01,Metro,50-64,White,Female,Online,Opt In,Active,No comment
+DON0000047,2024-11-01,Capital,0-17,White,Male,DMV,Opt Out,Active,No comment
+DON0000048,2025-10-01,Metro,65+,Other or Unknown,Male,DMV,Opt In,Active,Needs follow-up
+DON0000049,2025-08-01,Central,50-64,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000050,2024-12-01,Hudson,35-49,Asian,Female,DMV,Opt In,Active,Preference clarification
+DON0000051,2025-11-01,Central,50-64,Hispanic or Latino,Female,Other,Unknown,Inactive,No comment
+DON0000052,2025-11-01,Metro,35-49,Hispanic or Latino,Female,Community Event,Opt In,Active,No comment
+DON0000053,2024-07-01,Long Island,18-34,American Indian or Alaska Native,Male,Online,Opt In,Active,Address update
+DON0000054,2024-10-01,Long Island,35-49,White,Male,Community Event,Opt Out,Active,No comment
+DON0000055,2024-05-01,Capital,35-49,White,Female,Online,Opt In,Active,Address update
+DON0000056,2024-10-01,Central,35-49,White,Female,Hospital,Opt In,Active,No comment
+DON0000057,2025-07-01,Western,0-17,White,Female,Community Event,Opt Out,Active,No comment
+DON0000058,2025-08-01,Capital,50-64,White,Male,Online,Opt In,Inactive,No comment
+DON0000059,2025-10-01,Hudson,65+,White,Female,DMV,Unknown,Active,No comment
+DON0000060,2025-04-01,Western,18-34,Hispanic or Latino,Male,Community Event,Opt In,Inactive,No comment
+DON0000061,2024-06-01,Hudson,65+,White,Male,DMV,Opt In,Active,No comment
+DON0000062,2025-05-01,Metro,50-64,White,Unknown,Hospital,Opt Out,Active,No comment
+DON0000063,2025-05-01,Capital,35-49,White,Male,DMV,Opt In,Active,Needs follow-up
+DON0000064,2025-10-01,Capital,35-49,Other or Unknown,Male,DMV,Opt In,Active,Duplicate review
+DON0000065,2025-05-01,Metro,18-34,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0000066,2025-05-01,Central,35-49,Black or African American,Female,Community Event,Opt Out,Inactive,Needs follow-up
+DON0000067,2025-04-01,Central,35-49,White,Male,Community Event,Opt In,Active,No comment
+DON0000068,2024-04-01,Hudson,65+,White,Male,Online,Opt In,Active,No comment
+DON0000069,2024-08-01,Metro,18-34,Asian,Male,Other,Opt In,Active,Preference clarification
+DON0000070,2025-11-01,Western,50-64,White,Female,Online,Opt In,Active,Needs follow-up
+DON0000071,2025-09-01,Metro,0-17,Other or Unknown,Male,Online,Opt Out,Active,No comment
+DON0000072,2024-03-01,Metro,65+,Hispanic or Latino,Female,Community Event,Opt In,Deceased,Preference clarification
+DON0000073,2024-07-01,Metro,35-49,White,Female,Other,Unknown,Active,No comment
+DON0000074,2025-03-01,Northern,35-49,Hispanic or Latino,Male,Community Event,Opt Out,Active,No comment
+DON0000075,2025-04-01,Hudson,65+,White,Female,Community Event,Opt In,Inactive,Needs follow-up
+DON0000076,2024-08-01,Western,50-64,White,Male,Online,Opt In,Active,Address update
+DON0000077,2025-01-01,Northern,50-64,White,Female,DMV,Opt Out,Active,No comment
+DON0000078,2024-02-01,Capital,0-17,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0000079,2025-03-01,Capital,65+,White,Male,Online,Opt In,Active,No comment
+DON0000080,2025-04-01,Central,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,Needs follow-up
+DON0000081,2024-09-01,Northern,65+,White,Female,Online,Opt In,Active,No comment
+DON0000082,2025-11-01,Capital,18-34,Hispanic or Latino,Male,Online,Opt In,Inactive,No comment
+DON0000083,2025-04-01,Hudson,65+,Other or Unknown,Female,Other,Opt In,Active,No comment
+DON0000084,2025-03-01,Long Island,0-17,Hispanic or Latino,Unknown,Community Event,Opt In,Inactive,No comment
+DON0000085,2025-02-01,Northern,18-34,White,Female,Other,Opt Out,Active,No comment
+DON0000086,2025-08-01,Hudson,0-17,Hispanic or Latino,Female,Online,Opt Out,Active,No comment
+DON0000087,2024-03-01,Northern,65+,White,Female,DMV,Unknown,Active,Preference clarification
+DON0000088,2025-12-01,Metro,65+,White,Male,DMV,Unknown,Active,No comment
+DON0000089,2025-11-01,Central,65+,White,Female,Online,Opt In,Active,Address update
+DON0000090,2025-10-01,Long Island,0-17,Hispanic or Latino,Female,Hospital,Unknown,Active,Address update
+DON0000091,2025-01-01,Hudson,50-64,Black or African American,Male,Online,Opt In,Active,No comment
+DON0000092,2024-12-01,Capital,50-64,Black or African American,Male,Community Event,Opt In,Active,No comment
+DON0000093,2024-01-01,Northern,18-34,Asian,Unknown,DMV,Opt In,Active,Address update
+DON0000094,2024-06-01,Long Island,0-17,White,Male,Online,Opt In,Active,No comment
+DON0000095,2024-08-01,Hudson,0-17,White,Male,Community Event,Opt In,Active,No comment
+DON0000096,2024-11-01,Metro,35-49,White,Male,Other,Opt Out,Active,Address update
+DON0000097,2024-10-01,Western,0-17,White,Male,DMV,Opt Out,Active,No comment
+DON0000098,2024-04-01,Western,50-64,Hispanic or Latino,Male,Online,Opt Out,Active,No comment
+DON0000099,2024-12-01,Central,18-34,Hispanic or Latino,Male,DMV,Opt In,Inactive,No comment
+DON0000100,2024-07-01,Hudson,0-17,Black or African American,Male,DMV,Opt Out,Active,No comment
+DON0000101,2024-01-01,Central,35-49,Hispanic or Latino,Male,DMV,Opt Out,Active,Address update
+DON0000102,2024-08-01,Long Island,35-49,White,Female,DMV,Opt In,Inactive,No comment
+DON0000103,2025-04-01,Capital,50-64,Black or African American,Male,Community Event,Opt In,Active,No comment
+DON0000104,2025-06-01,Metro,35-49,White,Male,Online,Opt In,Active,No comment
+DON0000105,2025-12-01,Capital,50-64,White,Male,Other,Opt In,Inactive,No comment
+DON0000106,2025-02-01,Long Island,50-64,White,Male,Hospital,Opt Out,Active,No comment
+DON0000107,2024-04-01,Long Island,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000108,2024-05-01,Metro,50-64,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000109,2025-03-01,Metro,65+,Hispanic or Latino,Male,Online,Opt Out,Active,No comment
+DON0000110,2024-08-01,Long Island,35-49,White,Male,Online,Opt Out,Active,No comment
+DON0000111,2025-01-01,Metro,65+,White,Female,Online,Opt In,Active,Preference clarification
+DON0000112,2024-10-01,Western,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0000113,2024-05-01,Northern,35-49,White,Female,Online,Opt In,Active,No comment
+DON0000114,2025-02-01,Hudson,50-64,Black or African American,Male,Online,Opt In,Active,No comment
+DON0000115,2024-09-01,Hudson,65+,Black or African American,Female,DMV,Opt In,Inactive,No comment
+DON0000116,2025-07-01,Western,50-64,Hispanic or Latino,Male,Online,Opt Out,Active,No comment
+DON0000117,2024-06-01,Capital,18-34,Hispanic or Latino,Male,Hospital,Opt In,Active,No comment
+DON0000118,2025-05-01,Metro,35-49,White,Male,Online,Opt Out,Deceased,No comment
+DON0000119,2025-04-01,Northern,18-34,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0000120,2024-02-01,Long Island,18-34,White,Male,Hospital,Opt Out,Active,No comment
+DON0000121,2024-12-01,Western,65+,Other or Unknown,Female,DMV,Opt Out,Active,No comment
+DON0000122,2025-05-01,Hudson,18-34,American Indian or Alaska Native,Female,Community Event,Opt In,Active,No comment
+DON0000123,2025-06-01,Western,50-64,White,Male,DMV,Opt In,Active,Needs follow-up
+DON0000124,2025-08-01,Capital,0-17,Other or Unknown,Male,Other,Opt In,Active,No comment
+DON0000125,2024-07-01,Metro,65+,Black or African American,Male,Community Event,Opt In,Inactive,No comment
+DON0000126,2025-03-01,Long Island,0-17,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0000127,2024-01-01,Western,50-64,White,Female,Hospital,Opt In,Active,Duplicate review
+DON0000128,2025-02-01,Long Island,0-17,White,Female,Hospital,Opt In,Active,Preference clarification
+DON0000129,2024-06-01,Long Island,65+,Asian,Male,Online,Opt In,Active,No comment
+DON0000130,2024-03-01,Hudson,18-34,White,Female,DMV,Opt Out,Active,No comment
+DON0000131,2025-02-01,Metro,50-64,White,Male,Community Event,Opt Out,Active,No comment
+DON0000132,2024-08-01,Long Island,35-49,Black or African American,Male,Online,Opt In,Active,No comment
+DON0000133,2025-01-01,Western,35-49,White,Female,Online,Opt In,Active,No comment
+DON0000134,2024-05-01,Metro,18-34,Asian,Male,DMV,Opt In,Active,No comment
+DON0000135,2025-01-01,Long Island,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000136,2024-12-01,Long Island,18-34,White,Female,Community Event,Opt In,Active,No comment
+DON0000137,2025-04-01,Northern,18-34,White,Male,DMV,Opt In,Inactive,No comment
+DON0000138,2025-12-01,Long Island,50-64,Hispanic or Latino,Female,Community Event,Opt In,Active,No comment
+DON0000139,2024-11-01,Metro,50-64,White,Female,Other,Opt In,Active,Needs follow-up
+DON0000140,2025-03-01,Metro,50-64,White,Female,Online,Opt In,Inactive,No comment
+DON0000141,2025-03-01,Hudson,50-64,White,Female,Online,Opt Out,Active,No comment
+DON0000142,2025-11-01,Long Island,18-34,Other or Unknown,Male,Online,Opt In,Active,No comment
+DON0000143,2024-12-01,Metro,65+,White,Male,Community Event,Opt In,Active,No comment
+DON0000144,2024-10-01,Metro,35-49,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0000145,2024-08-01,Capital,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0000146,2024-10-01,Long Island,35-49,White,Female,Community Event,Opt In,Active,No comment
+DON0000147,2024-08-01,Capital,35-49,White,Female,Other,Opt Out,Active,No comment
+DON0000148,2024-07-01,Hudson,65+,Other or Unknown,Male,Online,Opt In,Active,No comment
+DON0000149,2024-06-01,Western,35-49,White,Male,Hospital,Opt Out,Active,Address update
+DON0000150,2025-01-01,Metro,65+,Black or African American,Female,Other,Opt In,Active,No comment
+DON0000151,2024-10-01,Western,18-34,White,Male,Hospital,Opt Out,Inactive,No comment
+DON0000152,2024-09-01,Metro,35-49,White,Unknown,DMV,Opt In,Active,No comment
+DON0000153,2025-05-01,Long Island,65+,Black or African American,Female,Other,Opt Out,Active,No comment
+DON0000154,2025-11-01,Hudson,35-49,Other or Unknown,Female,Other,Opt In,Active,No comment
+DON0000155,2025-11-01,Western,35-49,Hispanic or Latino,Female,DMV,Opt In,Active,Duplicate review
+DON0000156,2025-02-01,Long Island,35-49,Hispanic or Latino,Female,Hospital,Opt In,Inactive,No comment
+DON0000157,2024-02-01,Northern,35-49,White,Female,Hospital,Opt Out,Active,No comment
+DON0000158,2025-12-01,Hudson,65+,White,Male,DMV,Opt In,Active,No comment
+DON0000159,2025-12-01,Western,50-64,Black or African American,Female,Online,Unknown,Active,Duplicate review
+DON0000160,2024-02-01,Long Island,35-49,White,Female,DMV,Opt In,Active,Address update
+DON0000161,2024-06-01,Hudson,50-64,Black or African American,Unknown,Community Event,Opt In,Active,No comment
+DON0000162,2025-03-01,Hudson,50-64,White,Male,Online,Opt Out,Active,Address update
+DON0000163,2025-10-01,Long Island,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0000164,2025-08-01,Long Island,35-49,White,Female,Online,Opt In,Active,No comment
+DON0000165,2025-08-01,Western,65+,White,Male,DMV,Opt In,Active,No comment
+DON0000166,2025-07-01,Central,50-64,Hispanic or Latino,Male,DMV,Opt Out,Active,Address update
+DON0000167,2025-06-01,Hudson,35-49,White,Female,DMV,Unknown,Active,No comment
+DON0000168,2024-11-01,Capital,50-64,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0000169,2025-09-01,Long Island,0-17,White,Male,Online,Opt In,Active,Address update
+DON0000170,2024-10-01,Hudson,18-34,White,Female,Online,Opt In,Active,No comment
+DON0000171,2024-07-01,Metro,50-64,Black or African American,Female,DMV,Opt In,Active,Address update
+DON0000172,2025-06-01,Metro,18-34,Black or African American,Male,Other,Unknown,Active,No comment
+DON0000173,2025-04-01,Central,18-34,White,Female,DMV,Opt Out,Active,Address update
+DON0000174,2025-01-01,Metro,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0000175,2024-04-01,Metro,35-49,White,Female,Online,Opt In,Active,No comment
+DON0000176,2025-02-01,Metro,0-17,White,Female,DMV,Unknown,Inactive,No comment
+DON0000177,2024-03-01,Metro,18-34,Other or Unknown,Unknown,Online,Opt In,Active,Address update
+DON0000178,2025-12-01,Western,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000179,2024-09-01,Central,18-34,White,Male,Other,Opt In,Active,No comment
+DON0000180,2025-09-01,Metro,50-64,White,Male,Other,Opt Out,Active,No comment
+DON0000181,2025-08-01,Metro,18-34,Hispanic or Latino,Female,DMV,Unknown,Active,No comment
+DON0000182,2024-07-01,Long Island,18-34,White,Male,Online,Opt Out,Active,No comment
+DON0000183,2025-03-01,Long Island,18-34,White,Female,Online,Opt In,Active,No comment
+DON0000184,2024-08-01,Long Island,0-17,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0000185,2024-02-01,Long Island,35-49,White,Female,Other,Opt Out,Active,No comment
+DON0000186,2024-08-01,Metro,0-17,White,Male,DMV,Opt In,Deceased,No comment
+DON0000187,2025-11-01,Hudson,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000188,2025-12-01,Northern,18-34,Black or African American,Female,DMV,Opt In,Active,Address update
+DON0000189,2024-05-01,Hudson,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0000190,2025-05-01,Metro,35-49,Asian,Female,DMV,Opt In,Active,No comment
+DON0000191,2024-09-01,Western,50-64,Hispanic or Latino,Female,Other,Opt In,Active,No comment
+DON0000192,2025-09-01,Northern,50-64,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0000193,2024-07-01,Hudson,50-64,Black or African American,Female,DMV,Opt In,Active,Needs follow-up
+DON0000194,2025-10-01,Hudson,0-17,White,Male,DMV,Opt Out,Inactive,No comment
+DON0000195,2024-08-01,Metro,18-34,Other or Unknown,Male,Online,Opt In,Active,No comment
+DON0000196,2024-06-01,Central,50-64,White,Male,Online,Opt In,Active,No comment
+DON0000197,2025-06-01,Long Island,0-17,Other or Unknown,Male,Online,Opt In,Active,No comment
+DON0000198,2024-05-01,Metro,18-34,White,Female,Online,Opt In,Active,Address update
+DON0000199,2025-09-01,Long Island,50-64,White,Male,Other,Opt In,Active,No comment
+DON0000200,2025-07-01,Long Island,50-64,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0000201,2024-02-01,Hudson,18-34,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0000202,2024-03-01,Long Island,65+,Black or African American,Male,Other,Opt Out,Active,No comment
+DON0000203,2025-03-01,Long Island,35-49,White,Male,Online,Opt In,Active,No comment
+DON0000204,2025-07-01,Metro,65+,Asian,Male,Online,Opt Out,Active,No comment
+DON0000205,2024-05-01,Central,0-17,Black or African American,Male,Hospital,Opt In,Active,Needs follow-up
+DON0000206,2025-01-01,Metro,35-49,Asian,Male,Online,Unknown,Active,No comment
+DON0000207,2025-11-01,Western,50-64,White,Male,Community Event,Opt In,Deceased,No comment
+DON0000208,2025-11-01,Metro,35-49,White,Unknown,DMV,Opt In,Active,No comment
+DON0000209,2025-06-01,Capital,18-34,White,Male,Online,Opt In,Active,No comment
+DON0000210,2024-10-01,Central,0-17,Hispanic or Latino,Male,DMV,Opt Out,Active,Needs follow-up
+DON0000211,2024-12-01,Metro,65+,White,Male,Community Event,Opt In,Active,No comment
+DON0000212,2024-11-01,Metro,50-64,Asian,Female,Community Event,Opt In,Inactive,Address update
+DON0000213,2024-11-01,Hudson,0-17,White,Male,DMV,Opt Out,Active,Duplicate review
+DON0000214,2024-09-01,Metro,65+,Asian,Female,DMV,Opt In,Active,No comment
+DON0000215,2024-09-01,Long Island,0-17,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0000216,2024-10-01,Metro,0-17,White,Female,Online,Opt In,Active,No comment
+DON0000217,2024-03-01,Capital,50-64,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0000218,2024-01-01,Metro,0-17,White,Female,DMV,Unknown,Active,No comment
+DON0000219,2025-12-01,Capital,18-34,Hispanic or Latino,Female,Community Event,Opt In,Active,Address update
+DON0000220,2024-04-01,Long Island,35-49,White,Female,Hospital,Opt In,Active,No comment
+DON0000221,2024-06-01,Metro,50-64,Hispanic or Latino,Male,Other,Opt In,Active,No comment
+DON0000222,2024-02-01,Metro,65+,White,Female,Online,Opt In,Active,No comment
+DON0000223,2025-01-01,Hudson,50-64,White,Female,Hospital,Opt In,Active,No comment
+DON0000224,2024-08-01,Western,50-64,White,Female,DMV,Unknown,Deceased,Address update
+DON0000225,2025-10-01,Central,35-49,White,Female,Other,Opt In,Active,No comment
+DON0000226,2024-09-01,Hudson,18-34,Other or Unknown,Male,DMV,Opt In,Active,No comment
+DON0000227,2024-08-01,Metro,50-64,White,Female,Online,Opt In,Active,No comment
+DON0000228,2024-12-01,Metro,18-34,White,Male,Online,Opt In,Active,No comment
+DON0000229,2025-12-01,Metro,0-17,White,Female,DMV,Opt In,Active,No comment
+DON0000230,2024-07-01,Metro,50-64,Hispanic or Latino,Female,Online,Unknown,Active,No comment
+DON0000231,2025-07-01,Capital,65+,Hispanic or Latino,Male,Online,Opt Out,Active,Needs follow-up
+DON0000232,2025-12-01,Hudson,50-64,Other or Unknown,Female,DMV,Opt In,Deceased,No comment
+DON0000233,2025-10-01,Long Island,65+,Other or Unknown,Female,Online,Opt In,Inactive,Address update
+DON0000234,2024-11-01,Metro,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000235,2024-04-01,Long Island,50-64,Other or Unknown,Female,Hospital,Opt In,Inactive,Duplicate review
+DON0000236,2025-05-01,Western,50-64,White,Unknown,Online,Opt In,Active,No comment
+DON0000237,2024-10-01,Central,18-34,Hispanic or Latino,Male,Hospital,Opt In,Active,Preference clarification
+DON0000238,2024-04-01,Western,35-49,White,Female,DMV,Opt Out,Active,Duplicate review
+DON0000239,2024-02-01,Metro,50-64,Asian,Female,DMV,Opt In,Active,No comment
+DON0000240,2024-02-01,Western,65+,White,Female,DMV,Opt In,Active,No comment
+DON0000241,2025-02-01,Metro,50-64,White,Female,Hospital,Opt In,Active,Preference clarification
+DON0000242,2024-08-01,Long Island,35-49,Hispanic or Latino,Male,Online,Opt Out,Active,No comment
+DON0000243,2025-07-01,Metro,50-64,White,Female,Online,Opt Out,Active,No comment
+DON0000244,2025-05-01,Metro,18-34,White,Male,Online,Opt In,Active,No comment
+DON0000245,2024-05-01,Northern,35-49,White,Female,Community Event,Unknown,Active,No comment
+DON0000246,2025-04-01,Western,50-64,White,Male,DMV,Opt Out,Active,No comment
+DON0000247,2025-05-01,Hudson,50-64,Asian,Male,DMV,Unknown,Active,No comment
+DON0000248,2025-11-01,Long Island,50-64,White,Female,Online,Opt In,Active,No comment
+DON0000249,2025-06-01,Northern,35-49,White,Female,Other,Opt In,Active,No comment
+DON0000250,2024-09-01,Metro,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0000251,2025-05-01,Long Island,65+,White,Female,Online,Opt In,Active,Preference clarification
+DON0000252,2025-10-01,Hudson,50-64,White,Male,Online,Opt In,Active,No comment
+DON0000253,2024-04-01,Metro,65+,White,Male,DMV,Opt Out,Active,No comment
+DON0000254,2025-02-01,Metro,18-34,White,Female,Online,Opt In,Active,No comment
+DON0000255,2025-09-01,Metro,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000256,2025-06-01,Long Island,35-49,Black or African American,Male,Hospital,Opt In,Active,No comment
+DON0000257,2024-10-01,Metro,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0000258,2025-06-01,Metro,18-34,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0000259,2024-12-01,Hudson,35-49,Other or Unknown,Male,Online,Opt Out,Active,No comment
+DON0000260,2025-06-01,Central,65+,Hispanic or Latino,Female,DMV,Opt In,Active,Address update
+DON0000261,2025-11-01,Western,18-34,Other or Unknown,Female,Online,Opt In,Active,No comment
+DON0000262,2024-09-01,Capital,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000263,2024-12-01,Metro,0-17,White,Male,Community Event,Opt Out,Active,Duplicate review
+DON0000264,2025-11-01,Hudson,50-64,White,Male,Community Event,Opt In,Active,No comment
+DON0000265,2024-06-01,Metro,0-17,Other or Unknown,Male,Hospital,Opt In,Active,No comment
+DON0000266,2024-06-01,Metro,35-49,White,Female,Hospital,Opt In,Active,No comment
+DON0000267,2024-07-01,Capital,65+,White,Female,Community Event,Opt Out,Active,No comment
+DON0000268,2024-11-01,Metro,18-34,Asian,Male,Online,Opt Out,Active,No comment
+DON0000269,2024-02-01,Capital,18-34,White,Female,DMV,Opt In,Active,Duplicate review
+DON0000270,2024-07-01,Long Island,35-49,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0000271,2025-10-01,Capital,0-17,White,Female,Hospital,Opt In,Active,No comment
+DON0000272,2024-10-01,Northern,65+,Black or African American,Female,DMV,Opt Out,Active,Needs follow-up
+DON0000273,2024-11-01,Central,18-34,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0000274,2024-12-01,Metro,18-34,American Indian or Alaska Native,Unknown,Other,Opt In,Inactive,No comment
+DON0000275,2025-01-01,Metro,18-34,Asian,Male,DMV,Opt In,Active,No comment
+DON0000276,2024-12-01,Long Island,65+,White,Unknown,DMV,Opt In,Active,No comment
+DON0000277,2024-11-01,Northern,50-64,White,Male,DMV,Opt In,Inactive,No comment
+DON0000278,2024-12-01,Long Island,18-34,Black or African American,Female,Online,Opt In,Active,Preference clarification
+DON0000279,2025-12-01,Northern,65+,White,Female,Online,Opt Out,Active,No comment
+DON0000280,2024-04-01,Long Island,50-64,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0000281,2025-10-01,Western,65+,Hispanic or Latino,Male,DMV,Opt Out,Active,Duplicate review
+DON0000282,2025-03-01,Central,65+,White,Female,Hospital,Opt In,Active,No comment
+DON0000283,2025-08-01,Long Island,35-49,White,Male,DMV,Opt In,Active,Address update
+DON0000284,2024-03-01,Metro,0-17,White,Female,Hospital,Opt In,Active,Preference clarification
+DON0000285,2025-05-01,Long Island,35-49,Hispanic or Latino,Female,Community Event,Opt In,Deceased,No comment
+DON0000286,2025-12-01,Western,65+,White,Female,Hospital,Opt Out,Active,Preference clarification
+DON0000287,2025-07-01,Long Island,50-64,White,Female,DMV,Opt Out,Active,No comment
+DON0000288,2024-06-01,Hudson,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000289,2024-06-01,Western,18-34,Other or Unknown,Female,DMV,Opt Out,Active,Needs follow-up
+DON0000290,2025-10-01,Long Island,65+,Hispanic or Latino,Female,Online,Opt Out,Active,Needs follow-up
+DON0000291,2024-11-01,Metro,50-64,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0000292,2025-12-01,Metro,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0000293,2024-03-01,Metro,65+,White,Female,Online,Opt In,Active,No comment
+DON0000294,2025-12-01,Metro,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000295,2025-01-01,Western,65+,White,Male,Online,Opt In,Active,Preference clarification
+DON0000296,2025-05-01,Capital,50-64,White,Female,Other,Opt In,Active,Needs follow-up
+DON0000297,2025-11-01,Metro,0-17,White,Female,Community Event,Opt In,Active,No comment
+DON0000298,2025-04-01,Capital,18-34,White,Male,DMV,Unknown,Active,No comment
+DON0000299,2025-11-01,Metro,50-64,White,Male,Hospital,Opt In,Active,Needs follow-up
+DON0000300,2024-05-01,Capital,65+,White,Male,Hospital,Opt Out,Deceased,Address update
+DON0000301,2024-03-01,Metro,35-49,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0000302,2025-02-01,Metro,35-49,Asian,Unknown,Hospital,Opt In,Deceased,Needs follow-up
+DON0000303,2024-04-01,Capital,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000304,2025-06-01,Hudson,35-49,Hispanic or Latino,Unknown,Online,Opt In,Active,No comment
+DON0000305,2024-07-01,Hudson,35-49,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0000306,2024-01-01,Capital,0-17,White,Male,Online,Unknown,Active,No comment
+DON0000307,2025-06-01,Capital,35-49,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0000308,2024-02-01,Long Island,65+,Hispanic or Latino,Male,Community Event,Opt In,Active,No comment
+DON0000309,2024-07-01,Metro,35-49,American Indian or Alaska Native,Male,DMV,Opt In,Active,No comment
+DON0000310,2024-10-01,Metro,0-17,White,Male,Online,Opt In,Active,No comment
+DON0000311,2024-08-01,Western,35-49,Other or Unknown,Male,Other,Opt In,Active,No comment
+DON0000312,2024-08-01,Metro,35-49,White,Male,Online,Opt In,Deceased,No comment
+DON0000313,2025-08-01,Hudson,50-64,Hispanic or Latino,Male,DMV,Opt In,Active,Duplicate review
+DON0000314,2025-12-01,Metro,35-49,White,Male,Community Event,Opt In,Active,Address update
+DON0000315,2025-05-01,Central,35-49,White,Male,Hospital,Opt In,Active,No comment
+DON0000316,2025-01-01,Metro,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0000317,2024-09-01,Metro,50-64,White,Male,DMV,Opt Out,Active,No comment
+DON0000318,2025-06-01,Long Island,50-64,White,Female,Other,Opt In,Active,No comment
+DON0000319,2024-03-01,Metro,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000320,2024-07-01,Capital,65+,White,Female,DMV,Opt In,Inactive,Needs follow-up
+DON0000321,2025-12-01,Central,65+,Black or African American,Male,Online,Unknown,Active,No comment
+DON0000322,2025-02-01,Long Island,35-49,White,Male,Hospital,Opt In,Active,No comment
+DON0000323,2024-09-01,Metro,35-49,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0000324,2025-05-01,Capital,35-49,Hispanic or Latino,Male,Hospital,Opt In,Active,No comment
+DON0000325,2024-11-01,Long Island,50-64,White,Male,Online,Unknown,Active,No comment
+DON0000326,2025-02-01,Western,18-34,White,Female,Online,Opt In,Active,Needs follow-up
+DON0000327,2024-08-01,Long Island,18-34,White,Male,Hospital,Opt In,Active,Needs follow-up
+DON0000328,2025-02-01,Metro,18-34,Hispanic or Latino,Female,Other,Opt In,Active,Address update
+DON0000329,2025-11-01,Central,0-17,White,Male,DMV,Opt In,Active,No comment
+DON0000330,2024-03-01,Northern,65+,White,Male,Online,Opt Out,Active,No comment
+DON0000331,2024-03-01,Capital,18-34,Black or African American,Female,Online,Unknown,Active,No comment
+DON0000332,2024-06-01,Hudson,0-17,White,Female,Hospital,Opt In,Active,No comment
+DON0000333,2024-12-01,Hudson,0-17,White,Male,Online,Opt In,Active,No comment
+DON0000334,2024-03-01,Hudson,65+,Black or African American,Female,DMV,Unknown,Active,No comment
+DON0000335,2025-02-01,Long Island,65+,White,Male,Online,Opt In,Active,No comment
+DON0000336,2024-10-01,Long Island,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000337,2025-12-01,Western,50-64,White,Male,DMV,Opt In,Inactive,Preference clarification
+DON0000338,2024-07-01,Hudson,18-34,White,Female,DMV,Opt Out,Active,No comment
+DON0000339,2024-12-01,Metro,18-34,Hispanic or Latino,Female,Hospital,Unknown,Active,No comment
+DON0000340,2024-06-01,Capital,0-17,Black or African American,Unknown,Hospital,Opt In,Active,Preference clarification
+DON0000341,2024-04-01,Central,50-64,Other or Unknown,Male,Other,Opt In,Active,No comment
+DON0000342,2025-12-01,Western,50-64,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0000343,2024-06-01,Metro,35-49,Black or African American,Male,Other,Unknown,Active,Needs follow-up
+DON0000344,2025-02-01,Capital,50-64,Asian,Female,Other,Opt In,Active,Needs follow-up
+DON0000345,2024-08-01,Metro,35-49,White,Female,Online,Opt In,Active,Needs follow-up
+DON0000346,2025-07-01,Long Island,35-49,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0000347,2025-04-01,Hudson,65+,White,Male,Online,Unknown,Active,No comment
+DON0000348,2025-04-01,Northern,50-64,White,Male,DMV,Opt Out,Active,No comment
+DON0000349,2025-04-01,Capital,0-17,White,Male,Online,Unknown,Active,No comment
+DON0000350,2024-04-01,Hudson,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0000351,2024-09-01,Western,50-64,White,Male,Community Event,Opt In,Active,No comment
+DON0000352,2024-12-01,Metro,50-64,Hispanic or Latino,Female,Other,Opt In,Active,No comment
+DON0000353,2025-08-01,Metro,35-49,White,Male,Community Event,Opt In,Active,No comment
+DON0000354,2025-09-01,Long Island,18-34,Other or Unknown,Male,DMV,Opt In,Active,No comment
+DON0000355,2024-06-01,Western,50-64,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000356,2024-11-01,Hudson,0-17,Black or African American,Male,DMV,Unknown,Inactive,No comment
+DON0000357,2024-11-01,Metro,0-17,White,Male,Community Event,Opt In,Active,Duplicate review
+DON0000358,2024-09-01,Long Island,50-64,Asian,Female,Hospital,Opt In,Active,Address update
+DON0000359,2025-09-01,Metro,35-49,White,Male,Hospital,Opt In,Active,No comment
+DON0000360,2025-11-01,Metro,35-49,American Indian or Alaska Native,Male,DMV,Unknown,Active,Duplicate review
+DON0000361,2024-12-01,Metro,0-17,White,Male,Community Event,Opt Out,Active,No comment
+DON0000362,2025-06-01,Capital,35-49,White,Male,Online,Opt Out,Active,No comment
+DON0000363,2024-09-01,Central,50-64,Hispanic or Latino,Male,DMV,Opt Out,Active,Needs follow-up
+DON0000364,2024-11-01,Long Island,50-64,Black or African American,Male,DMV,Opt In,Active,Preference clarification
+DON0000365,2025-11-01,Capital,50-64,White,Female,Online,Opt In,Inactive,No comment
+DON0000366,2025-05-01,Northern,50-64,Asian,Male,Other,Opt In,Active,No comment
+DON0000367,2025-04-01,Metro,18-34,White,Female,Hospital,Opt In,Active,Preference clarification
+DON0000368,2024-02-01,Capital,50-64,White,Male,Community Event,Opt Out,Active,No comment
+DON0000369,2024-08-01,Long Island,50-64,White,Male,Online,Opt In,Active,No comment
+DON0000370,2024-05-01,Capital,18-34,White,Male,Community Event,Opt In,Active,No comment
+DON0000371,2024-11-01,Metro,18-34,White,Female,Online,Opt Out,Active,No comment
+DON0000372,2024-10-01,Metro,65+,Black or African American,Female,DMV,Opt Out,Active,No comment
+DON0000373,2025-10-01,Long Island,18-34,White,Male,Other,Opt Out,Active,No comment
+DON0000374,2025-06-01,Western,50-64,Other or Unknown,Female,Online,Opt In,Active,Preference clarification
+DON0000375,2025-04-01,Long Island,50-64,White,Male,Online,Opt In,Inactive,Preference clarification
+DON0000376,2025-10-01,Long Island,0-17,White,Unknown,DMV,Opt In,Active,No comment
+DON0000377,2024-03-01,Long Island,35-49,Other or Unknown,Female,Other,Opt In,Active,Preference clarification
+DON0000378,2024-04-01,Central,65+,Hispanic or Latino,Male,Online,Unknown,Active,Preference clarification
+DON0000379,2025-04-01,Metro,65+,Hispanic or Latino,Female,Other,Unknown,Active,Preference clarification
+DON0000380,2025-10-01,Long Island,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000381,2025-10-01,Hudson,0-17,White,Female,Online,Opt In,Active,Preference clarification
+DON0000382,2024-12-01,Capital,50-64,White,Female,DMV,Opt Out,Active,Preference clarification
+DON0000383,2025-02-01,Hudson,35-49,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0000384,2025-08-01,Long Island,18-34,White,Female,Online,Opt Out,Active,No comment
+DON0000385,2025-09-01,Central,35-49,American Indian or Alaska Native,Female,DMV,Opt Out,Active,Preference clarification
+DON0000386,2025-11-01,Metro,50-64,White,Male,Community Event,Opt In,Active,No comment
+DON0000387,2025-06-01,Metro,18-34,Hispanic or Latino,Male,Hospital,Opt In,Active,No comment
+DON0000388,2025-08-01,Long Island,18-34,White,Male,Other,Opt In,Active,No comment
+DON0000389,2025-11-01,Hudson,18-34,Hispanic or Latino,Male,DMV,Opt Out,Active,No comment
+DON0000390,2024-06-01,Metro,50-64,Hispanic or Latino,Male,Community Event,Unknown,Active,No comment
+DON0000391,2024-07-01,Metro,50-64,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0000392,2025-01-01,Metro,50-64,White,Female,Online,Opt Out,Active,No comment
+DON0000393,2025-06-01,Long Island,0-17,Black or African American,Male,Hospital,Opt In,Active,No comment
+DON0000394,2025-08-01,Long Island,35-49,Other or Unknown,Male,Online,Opt In,Active,Preference clarification
+DON0000395,2025-09-01,Central,65+,Asian,Male,DMV,Opt In,Active,No comment
+DON0000396,2025-01-01,Long Island,35-49,Black or African American,Male,Other,Opt In,Active,Needs follow-up
+DON0000397,2024-11-01,Metro,50-64,White,Male,Online,Opt In,Active,No comment
+DON0000398,2025-03-01,Metro,35-49,White,Female,Hospital,Unknown,Active,Preference clarification
+DON0000399,2025-06-01,Central,18-34,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0000400,2025-06-01,Long Island,18-34,Asian,Male,DMV,Opt Out,Active,Duplicate review
+DON0000401,2025-02-01,Metro,50-64,Other or Unknown,Female,Other,Opt In,Inactive,Address update
+DON0000402,2025-08-01,Western,0-17,Other or Unknown,Male,Online,Opt In,Inactive,No comment
+DON0000403,2024-05-01,Metro,50-64,Hispanic or Latino,Female,Community Event,Opt Out,Active,Preference clarification
+DON0000404,2024-02-01,Metro,35-49,White,Male,Other,Opt In,Active,No comment
+DON0000405,2025-06-01,Hudson,65+,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0000406,2025-12-01,Metro,0-17,Hispanic or Latino,Male,Hospital,Opt In,Active,No comment
+DON0000407,2024-10-01,Hudson,18-34,White,Male,Online,Opt In,Active,Address update
+DON0000408,2025-01-01,Capital,18-34,White,Male,DMV,Opt In,Active,Address update
+DON0000409,2024-04-01,Long Island,35-49,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0000410,2024-05-01,Capital,18-34,White,Female,Hospital,Opt In,Inactive,No comment
+DON0000411,2025-07-01,Long Island,65+,White,Male,DMV,Opt Out,Active,Needs follow-up
+DON0000412,2025-04-01,Metro,35-49,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0000413,2024-06-01,Metro,18-34,Other or Unknown,Male,Community Event,Opt Out,Active,No comment
+DON0000414,2025-04-01,Long Island,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000415,2025-12-01,Hudson,50-64,Black or African American,Male,Other,Opt Out,Active,Preference clarification
+DON0000416,2024-07-01,Long Island,35-49,Black or African American,Male,Online,Opt Out,Active,No comment
+DON0000417,2025-04-01,Metro,35-49,Hispanic or Latino,Male,DMV,Unknown,Active,No comment
+DON0000418,2025-11-01,Metro,65+,Asian,Female,DMV,Opt In,Active,No comment
+DON0000419,2024-09-01,Long Island,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000420,2024-08-01,Western,35-49,Hispanic or Latino,Male,DMV,Opt Out,Active,No comment
+DON0000421,2025-07-01,Metro,0-17,Black or African American,Female,Community Event,Unknown,Active,Preference clarification
+DON0000422,2024-10-01,Capital,35-49,White,Male,Online,Opt In,Active,No comment
+DON0000423,2024-03-01,Long Island,65+,White,Male,DMV,Opt In,Active,No comment
+DON0000424,2024-01-01,Metro,0-17,White,Female,Online,Opt In,Active,No comment
+DON0000425,2025-02-01,Long Island,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0000426,2025-11-01,Northern,18-34,White,Female,Online,Opt Out,Active,No comment
+DON0000427,2025-09-01,Hudson,65+,White,Female,Other,Unknown,Inactive,Preference clarification
+DON0000428,2024-06-01,Metro,35-49,Asian,Female,Community Event,Opt In,Active,No comment
+DON0000429,2024-06-01,Western,35-49,Black or African American,Male,DMV,Opt Out,Active,No comment
+DON0000430,2025-02-01,Hudson,50-64,White,Male,DMV,Opt In,Inactive,No comment
+DON0000431,2024-01-01,Western,18-34,Black or African American,Male,Community Event,Unknown,Active,No comment
+DON0000432,2025-12-01,Long Island,35-49,Black or African American,Female,DMV,Opt Out,Active,No comment
+DON0000433,2024-03-01,Hudson,35-49,Hispanic or Latino,Male,Online,Opt Out,Active,No comment
+DON0000434,2024-12-01,Metro,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0000435,2024-12-01,Western,65+,Black or African American,Male,Community Event,Opt Out,Active,No comment
+DON0000436,2025-09-01,Metro,50-64,Asian,Male,Other,Opt In,Active,No comment
+DON0000437,2024-03-01,Metro,18-34,White,Female,DMV,Opt Out,Inactive,No comment
+DON0000438,2024-09-01,Long Island,18-34,White,Unknown,Community Event,Opt In,Active,No comment
+DON0000439,2025-06-01,Metro,50-64,Other or Unknown,Female,DMV,Opt In,Active,No comment
+DON0000440,2025-01-01,Long Island,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0000441,2025-11-01,Central,50-64,White,Male,Online,Opt In,Active,Address update
+DON0000442,2025-04-01,Central,50-64,Other or Unknown,Male,Online,Opt In,Active,No comment
+DON0000443,2025-06-01,Hudson,18-34,White,Female,Online,Opt In,Active,No comment
+DON0000444,2024-04-01,Hudson,50-64,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000445,2024-02-01,Long Island,65+,White,Male,Community Event,Opt In,Active,No comment
+DON0000446,2025-11-01,Long Island,18-34,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0000447,2024-05-01,Northern,50-64,White,Male,Community Event,Opt In,Active,No comment
+DON0000448,2024-03-01,Western,50-64,White,Male,DMV,Opt In,Active,Preference clarification
+DON0000449,2025-10-01,Hudson,65+,White,Male,Hospital,Opt In,Active,No comment
+DON0000450,2025-07-01,Long Island,50-64,Hispanic or Latino,Female,Hospital,Opt In,Active,No comment
+DON0000451,2024-07-01,Long Island,50-64,White,Male,Hospital,Unknown,Active,Address update
+DON0000452,2025-01-01,Metro,18-34,Black or African American,Male,Online,Opt In,Active,No comment
+DON0000453,2024-08-01,Capital,65+,Asian,Male,Online,Opt In,Active,Needs follow-up
+DON0000454,2024-06-01,Metro,0-17,White,Female,DMV,Opt In,Active,No comment
+DON0000455,2025-07-01,Long Island,18-34,Black or African American,Female,DMV,Opt Out,Active,No comment
+DON0000456,2024-08-01,Metro,18-34,White,Female,Online,Unknown,Active,No comment
+DON0000457,2024-06-01,Hudson,18-34,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0000458,2024-04-01,Capital,35-49,Black or African American,Male,DMV,Opt Out,Active,Duplicate review
+DON0000459,2024-07-01,Hudson,35-49,White,Female,Community Event,Opt In,Active,No comment
+DON0000460,2025-11-01,Metro,0-17,Hispanic or Latino,Female,Community Event,Opt Out,Active,Preference clarification
+DON0000461,2024-06-01,Western,0-17,White,Female,DMV,Opt In,Active,No comment
+DON0000462,2025-06-01,Long Island,18-34,Other or Unknown,Female,DMV,Opt In,Active,No comment
+DON0000463,2025-05-01,Metro,0-17,Asian,Female,Community Event,Opt In,Inactive,No comment
+DON0000464,2025-09-01,Hudson,0-17,Black or African American,Male,Community Event,Opt In,Active,No comment
+DON0000465,2025-06-01,Central,0-17,Hispanic or Latino,Male,Online,Opt Out,Active,No comment
+DON0000466,2024-12-01,Metro,65+,White,Male,DMV,Opt In,Active,No comment
+DON0000467,2024-05-01,Hudson,50-64,White,Male,Online,Opt In,Active,No comment
+DON0000468,2024-12-01,Metro,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0000469,2024-05-01,Central,0-17,White,Male,DMV,Opt Out,Active,Address update
+DON0000470,2024-09-01,Hudson,0-17,Asian,Female,DMV,Opt In,Active,No comment
+DON0000471,2025-06-01,Western,65+,White,Male,DMV,Opt In,Active,Duplicate review
+DON0000472,2024-09-01,Metro,65+,White,Male,DMV,Opt In,Active,No comment
+DON0000473,2024-01-01,Metro,0-17,White,Male,DMV,Opt Out,Active,Preference clarification
+DON0000474,2024-05-01,Hudson,35-49,White,Female,DMV,Opt In,Active,Duplicate review
+DON0000475,2024-05-01,Metro,35-49,Hispanic or Latino,Male,DMV,Opt Out,Active,No comment
+DON0000476,2025-10-01,Metro,50-64,White,Male,DMV,Opt Out,Active,Duplicate review
+DON0000477,2025-06-01,Northern,18-34,White,Male,DMV,Unknown,Active,No comment
+DON0000478,2025-04-01,Central,18-34,White,Male,DMV,Opt Out,Active,No comment
+DON0000479,2024-01-01,Metro,18-34,Other or Unknown,Female,Community Event,Opt Out,Active,No comment
+DON0000480,2025-07-01,Central,35-49,White,Male,Community Event,Opt Out,Active,No comment
+DON0000481,2025-08-01,Metro,0-17,White,Female,Hospital,Opt In,Active,No comment
+DON0000482,2024-06-01,Western,0-17,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0000483,2024-12-01,Hudson,35-49,White,Female,DMV,Opt In,Inactive,No comment
+DON0000484,2024-01-01,Metro,0-17,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0000485,2025-03-01,Metro,50-64,Black or African American,Male,Community Event,Opt In,Active,No comment
+DON0000486,2025-11-01,Metro,18-34,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0000487,2025-12-01,Metro,18-34,Other or Unknown,Female,Hospital,Opt In,Active,Duplicate review
+DON0000488,2025-07-01,Metro,50-64,Hispanic or Latino,Male,Online,Opt Out,Inactive,Address update
+DON0000489,2025-06-01,Northern,0-17,White,Female,Community Event,Unknown,Active,No comment
+DON0000490,2024-03-01,Western,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0000491,2025-10-01,Metro,65+,White,Female,DMV,Opt In,Active,Needs follow-up
+DON0000492,2025-12-01,Western,0-17,White,Male,Hospital,Opt In,Active,No comment
+DON0000493,2025-12-01,Northern,50-64,White,Female,Online,Unknown,Active,No comment
+DON0000494,2025-03-01,Metro,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000495,2025-06-01,Capital,65+,White,Male,DMV,Opt Out,Active,No comment
+DON0000496,2024-04-01,Metro,65+,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0000497,2025-01-01,Metro,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0000498,2025-12-01,Long Island,65+,Black or African American,Female,Online,Opt In,Active,No comment
+DON0000499,2024-04-01,Metro,18-34,Asian,Male,DMV,Opt In,Active,Duplicate review
+DON0000500,2025-01-01,Western,18-34,White,Female,Community Event,Opt Out,Active,No comment
+DON0000501,2024-09-01,Metro,35-49,White,Male,DMV,Opt In,Active,Duplicate review
+DON0000502,2024-07-01,Metro,0-17,White,Male,DMV,Opt In,Active,No comment
+DON0000503,2024-01-01,Capital,0-17,White,Male,Online,Opt In,Active,No comment
+DON0000504,2025-11-01,Long Island,35-49,Asian,Female,Online,Opt In,Active,No comment
+DON0000505,2025-03-01,Long Island,35-49,White,Male,DMV,Unknown,Active,Address update
+DON0000506,2025-03-01,Long Island,18-34,Hispanic or Latino,Male,DMV,Opt In,Inactive,No comment
+DON0000507,2024-12-01,Long Island,35-49,White,Male,Hospital,Opt In,Active,No comment
+DON0000508,2024-11-01,Long Island,35-49,White,Male,DMV,Unknown,Active,No comment
+DON0000509,2024-11-01,Long Island,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0000510,2024-06-01,Long Island,18-34,White,Male,Online,Opt Out,Active,No comment
+DON0000511,2025-03-01,Metro,35-49,Other or Unknown,Male,DMV,Opt In,Active,No comment
+DON0000512,2024-01-01,Hudson,65+,White,Male,Community Event,Opt Out,Active,No comment
+DON0000513,2024-02-01,Western,18-34,White,Female,Community Event,Opt Out,Active,Duplicate review
+DON0000514,2025-07-01,Central,50-64,White,Male,Online,Opt In,Active,Address update
+DON0000515,2025-02-01,Long Island,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000516,2025-08-01,Capital,18-34,White,Male,Online,Opt In,Active,No comment
+DON0000517,2025-08-01,Long Island,18-34,Black or African American,Female,Online,Opt Out,Active,No comment
+DON0000518,2025-05-01,Long Island,65+,White,Female,Online,Opt In,Active,No comment
+DON0000519,2024-10-01,Hudson,18-34,Black or African American,Male,Community Event,Opt In,Active,No comment
+DON0000520,2025-03-01,Hudson,35-49,Hispanic or Latino,Female,DMV,Unknown,Active,No comment
+DON0000521,2024-10-01,Western,35-49,White,Female,Hospital,Unknown,Active,Preference clarification
+DON0000522,2025-11-01,Central,35-49,Black or African American,Male,Other,Opt In,Active,No comment
+DON0000523,2025-06-01,Metro,18-34,Hispanic or Latino,Male,DMV,Opt Out,Active,Preference clarification
+DON0000524,2024-05-01,Long Island,0-17,Hispanic or Latino,Male,Community Event,Opt In,Active,No comment
+DON0000525,2025-12-01,Hudson,65+,White,Female,Online,Opt In,Active,No comment
+DON0000526,2024-03-01,Western,65+,White,Male,DMV,Opt In,Active,No comment
+DON0000527,2025-08-01,Hudson,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0000528,2024-04-01,Metro,18-34,Black or African American,Male,Hospital,Opt In,Deceased,No comment
+DON0000529,2025-07-01,Metro,0-17,Black or African American,Female,Community Event,Opt In,Active,No comment
+DON0000530,2024-06-01,Metro,50-64,Asian,Female,Hospital,Opt In,Active,No comment
+DON0000531,2024-06-01,Long Island,50-64,Hispanic or Latino,Female,Community Event,Opt In,Active,No comment
+DON0000532,2025-06-01,Central,35-49,White,Male,DMV,Opt Out,Active,No comment
+DON0000533,2024-08-01,Metro,0-17,White,Female,Online,Opt In,Active,No comment
+DON0000534,2025-01-01,Hudson,65+,White,Male,DMV,Opt In,Active,No comment
+DON0000535,2024-03-01,Metro,0-17,White,Male,Online,Opt In,Deceased,Preference clarification
+DON0000536,2024-12-01,Metro,65+,Hispanic or Latino,Female,DMV,Opt In,Active,Address update
+DON0000537,2025-12-01,Western,50-64,White,Male,Hospital,Opt In,Active,No comment
+DON0000538,2024-11-01,Long Island,0-17,Asian,Female,Community Event,Opt Out,Active,Preference clarification
+DON0000539,2024-08-01,Capital,65+,Hispanic or Latino,Male,Hospital,Opt In,Active,No comment
+DON0000540,2025-08-01,Capital,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000541,2024-01-01,Long Island,0-17,White,Male,DMV,Opt In,Active,No comment
+DON0000542,2025-05-01,Hudson,50-64,White,Male,Hospital,Opt In,Inactive,Address update
+DON0000543,2024-12-01,Northern,65+,White,Female,Online,Opt In,Active,No comment
+DON0000544,2024-07-01,Western,18-34,White,Male,DMV,Unknown,Active,No comment
+DON0000545,2024-01-01,Metro,18-34,White,Male,Other,Opt Out,Active,Preference clarification
+DON0000546,2024-10-01,Hudson,18-34,White,Female,DMV,Opt Out,Inactive,Address update
+DON0000547,2024-06-01,Long Island,35-49,Black or African American,Male,Hospital,Opt Out,Active,No comment
+DON0000548,2025-08-01,Metro,0-17,Other or Unknown,Male,DMV,Opt Out,Active,Address update
+DON0000549,2025-09-01,Long Island,18-34,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0000550,2024-06-01,Long Island,35-49,White,Male,Community Event,Unknown,Active,No comment
+DON0000551,2024-09-01,Long Island,65+,White,Male,Other,Opt Out,Inactive,No comment
+DON0000552,2025-12-01,Western,35-49,Other or Unknown,Male,DMV,Opt Out,Active,No comment
+DON0000553,2024-01-01,Western,50-64,Other or Unknown,Female,DMV,Opt In,Active,No comment
+DON0000554,2024-01-01,Western,35-49,Black or African American,Female,Online,Opt In,Active,Address update
+DON0000555,2024-03-01,Metro,65+,Other or Unknown,Male,Other,Opt In,Active,No comment
+DON0000556,2024-02-01,Metro,50-64,White,Male,Online,Opt In,Active,No comment
+DON0000557,2025-12-01,Central,18-34,Hispanic or Latino,Female,Community Event,Opt In,Active,No comment
+DON0000558,2024-10-01,Western,0-17,White,Male,Online,Opt Out,Active,No comment
+DON0000559,2024-07-01,Metro,50-64,Asian,Male,Online,Opt Out,Active,No comment
+DON0000560,2025-05-01,Western,65+,Black or African American,Female,Online,Opt In,Active,Address update
+DON0000561,2025-03-01,Long Island,65+,White,Female,DMV,Opt In,Inactive,No comment
+DON0000562,2024-09-01,Central,18-34,Black or African American,Male,Other,Opt Out,Active,No comment
+DON0000563,2025-07-01,Long Island,18-34,White,Male,DMV,Unknown,Active,No comment
+DON0000564,2024-09-01,Metro,65+,White,Male,Other,Opt In,Active,Address update
+DON0000565,2024-09-01,Hudson,18-34,White,Female,DMV,Opt In,Active,Needs follow-up
+DON0000566,2025-11-01,Metro,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000567,2024-07-01,Hudson,35-49,Hispanic or Latino,Female,Community Event,Unknown,Active,Needs follow-up
+DON0000568,2025-03-01,Metro,50-64,Hispanic or Latino,Female,Community Event,Opt In,Active,Address update
+DON0000569,2025-03-01,Long Island,35-49,White,Male,Community Event,Opt In,Active,No comment
+DON0000570,2025-12-01,Metro,35-49,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0000571,2025-04-01,Hudson,65+,White,Female,Hospital,Opt In,Active,No comment
+DON0000572,2024-09-01,Hudson,35-49,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0000573,2025-02-01,Metro,18-34,White,Male,Online,Unknown,Active,No comment
+DON0000574,2025-11-01,Metro,50-64,Other or Unknown,Male,DMV,Opt In,Active,No comment
+DON0000575,2025-11-01,Capital,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0000576,2024-09-01,Capital,50-64,Hispanic or Latino,Female,Online,Opt Out,Active,Needs follow-up
+DON0000577,2024-12-01,Long Island,18-34,Other or Unknown,Male,Online,Opt In,Active,No comment
+DON0000578,2024-01-01,Western,18-34,Black or African American,Female,Online,Opt In,Active,No comment
+DON0000579,2024-02-01,Metro,50-64,White,Male,Online,Opt In,Active,Preference clarification
+DON0000580,2024-05-01,Metro,35-49,Hispanic or Latino,Male,DMV,Unknown,Active,Needs follow-up
+DON0000581,2024-06-01,Long Island,50-64,White,Female,Other,Opt In,Active,No comment
+DON0000582,2024-02-01,Long Island,0-17,White,Female,Online,Opt In,Active,No comment
+DON0000583,2024-11-01,Hudson,35-49,White,Female,Online,Opt In,Active,No comment
+DON0000584,2024-09-01,Metro,50-64,White,Male,Other,Opt In,Active,No comment
+DON0000585,2024-11-01,Capital,35-49,Black or African American,Male,Online,Opt Out,Active,No comment
+DON0000586,2024-08-01,Metro,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0000587,2025-09-01,Capital,0-17,White,Male,Online,Opt In,Inactive,No comment
+DON0000588,2025-09-01,Central,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0000589,2024-06-01,Long Island,0-17,Other or Unknown,Male,DMV,Opt In,Active,Address update
+DON0000590,2024-12-01,Central,50-64,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0000591,2024-09-01,Western,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000592,2025-04-01,Western,35-49,White,Female,DMV,Opt Out,Active,No comment
+DON0000593,2025-02-01,Northern,50-64,White,Female,Community Event,Opt In,Active,No comment
+DON0000594,2025-08-01,Metro,0-17,White,Female,DMV,Opt In,Active,No comment
+DON0000595,2025-04-01,Western,0-17,White,Male,Community Event,Opt In,Inactive,No comment
+DON0000596,2025-02-01,Hudson,18-34,White,Female,Online,Opt In,Active,No comment
+DON0000597,2024-05-01,Long Island,35-49,White,Female,DMV,Opt In,Inactive,No comment
+DON0000598,2025-10-01,Northern,0-17,Asian,Male,Hospital,Opt In,Active,No comment
+DON0000599,2024-10-01,Long Island,65+,American Indian or Alaska Native,Male,Online,Opt In,Active,Address update
+DON0000600,2025-10-01,Western,18-34,Black or African American,Unknown,Other,Unknown,Active,Duplicate review
+DON0000601,2025-05-01,Western,0-17,White,Female,Online,Opt Out,Active,Preference clarification
+DON0000602,2025-07-01,Western,65+,Hispanic or Latino,Male,Community Event,Unknown,Active,No comment
+DON0000603,2025-07-01,Metro,0-17,White,Male,Hospital,Opt In,Active,Address update
+DON0000604,2024-03-01,Capital,35-49,White,Female,Online,Opt Out,Active,Duplicate review
+DON0000605,2024-11-01,Central,65+,White,Male,Online,Opt In,Inactive,No comment
+DON0000606,2025-03-01,Western,50-64,White,Female,DMV,Opt In,Inactive,No comment
+DON0000607,2024-02-01,Hudson,65+,White,Female,Online,Opt Out,Active,No comment
+DON0000608,2025-08-01,Long Island,0-17,Black or African American,Female,DMV,Opt Out,Active,No comment
+DON0000609,2025-03-01,Long Island,0-17,White,Female,DMV,Opt In,Active,Needs follow-up
+DON0000610,2025-01-01,Hudson,18-34,Hispanic or Latino,Female,Community Event,Opt In,Active,Needs follow-up
+DON0000611,2024-02-01,Northern,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0000612,2024-07-01,Western,65+,White,Unknown,Online,Opt In,Active,Address update
+DON0000613,2024-04-01,Western,35-49,White,Male,Community Event,Opt In,Active,No comment
+DON0000614,2025-11-01,Metro,0-17,White,Female,Community Event,Opt In,Active,No comment
+DON0000615,2024-07-01,Western,50-64,White,Male,Community Event,Opt In,Deceased,No comment
+DON0000616,2025-03-01,Western,65+,Black or African American,Male,DMV,Unknown,Active,No comment
+DON0000617,2024-08-01,Central,65+,Hispanic or Latino,Male,Other,Opt In,Active,No comment
+DON0000618,2025-03-01,Metro,50-64,White,Male,Online,Opt In,Active,No comment
+DON0000619,2025-09-01,Capital,65+,White,Male,Hospital,Opt In,Active,No comment
+DON0000620,2024-03-01,Metro,50-64,Hispanic or Latino,Unknown,Community Event,Opt In,Active,No comment
+DON0000621,2025-10-01,Metro,65+,White,Female,Community Event,Opt In,Active,No comment
+DON0000622,2025-01-01,Long Island,35-49,White,Male,Hospital,Opt In,Active,No comment
+DON0000623,2025-01-01,Western,18-34,White,Female,Community Event,Opt In,Active,No comment
+DON0000624,2024-10-01,Metro,35-49,Asian,Female,DMV,Opt In,Active,No comment
+DON0000625,2025-02-01,Capital,35-49,White,Male,Online,Opt In,Active,No comment
+DON0000626,2025-07-01,Metro,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0000627,2025-09-01,Metro,65+,White,Male,Online,Opt In,Active,No comment
+DON0000628,2025-03-01,Metro,65+,White,Female,Online,Opt In,Inactive,Duplicate review
+DON0000629,2025-12-01,Metro,65+,White,Female,Online,Opt In,Active,No comment
+DON0000630,2024-09-01,Hudson,65+,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0000631,2025-07-01,Long Island,50-64,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0000632,2025-08-01,Long Island,0-17,White,Male,Online,Opt In,Active,No comment
+DON0000633,2024-03-01,Western,65+,Asian,Male,Hospital,Opt In,Active,No comment
+DON0000634,2024-01-01,Metro,50-64,White,Male,DMV,Opt In,Active,Duplicate review
+DON0000635,2024-04-01,Long Island,50-64,Black or African American,Male,DMV,Unknown,Active,No comment
+DON0000636,2025-12-01,Metro,65+,White,Male,DMV,Opt In,Active,Needs follow-up
+DON0000637,2025-11-01,Metro,50-64,White,Unknown,DMV,Opt In,Active,No comment
+DON0000638,2024-03-01,Long Island,50-64,Other or Unknown,Male,Online,Opt In,Active,Address update
+DON0000639,2025-01-01,Hudson,0-17,White,Male,DMV,Opt In,Active,No comment
+DON0000640,2025-03-01,Hudson,35-49,White,Male,Online,Opt In,Active,No comment
+DON0000641,2025-09-01,Metro,0-17,White,Female,Online,Opt In,Active,Preference clarification
+DON0000642,2025-08-01,Hudson,0-17,Hispanic or Latino,Male,Other,Opt In,Active,No comment
+DON0000643,2024-02-01,Central,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0000644,2024-03-01,Long Island,65+,White,Male,Hospital,Opt In,Active,No comment
+DON0000645,2025-09-01,Capital,0-17,White,Male,Other,Opt In,Active,No comment
+DON0000646,2025-10-01,Metro,18-34,White,Female,Online,Opt In,Active,No comment
+DON0000647,2024-04-01,Hudson,0-17,White,Male,DMV,Opt Out,Active,Needs follow-up
+DON0000648,2024-05-01,Hudson,50-64,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0000649,2025-06-01,Long Island,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,Preference clarification
+DON0000650,2025-04-01,Northern,0-17,White,Female,Online,Opt In,Inactive,Preference clarification
+DON0000651,2025-04-01,Metro,18-34,White,Female,Hospital,Opt Out,Active,Address update
+DON0000652,2024-01-01,Long Island,18-34,Black or African American,Female,Other,Opt In,Active,No comment
+DON0000653,2025-06-01,Hudson,35-49,White,Male,Online,Unknown,Active,Address update
+DON0000654,2024-09-01,Metro,50-64,White,Male,Online,Opt In,Active,No comment
+DON0000655,2025-05-01,Western,0-17,Black or African American,Female,DMV,Opt In,Active,Needs follow-up
+DON0000656,2024-01-01,Central,50-64,White,Female,DMV,Unknown,Active,No comment
+DON0000657,2024-08-01,Metro,18-34,White,Male,Online,Opt In,Active,No comment
+DON0000658,2024-10-01,Metro,35-49,White,Male,Other,Opt Out,Active,No comment
+DON0000659,2024-09-01,Capital,65+,White,Female,Online,Opt Out,Active,Preference clarification
+DON0000660,2025-05-01,Central,65+,White,Male,DMV,Opt Out,Active,Address update
+DON0000661,2024-12-01,Long Island,18-34,White,Female,Online,Opt Out,Active,No comment
+DON0000662,2025-04-01,Long Island,0-17,White,Male,DMV,Opt In,Inactive,No comment
+DON0000663,2024-07-01,Capital,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0000664,2024-09-01,Long Island,0-17,White,Male,DMV,Opt In,Active,No comment
+DON0000665,2024-01-01,Capital,35-49,White,Female,Online,Opt In,Active,No comment
+DON0000666,2025-04-01,Hudson,35-49,White,Male,DMV,Opt In,Active,Duplicate review
+DON0000667,2024-05-01,Long Island,35-49,Asian,Female,DMV,Opt In,Active,No comment
+DON0000668,2024-04-01,Hudson,0-17,White,Male,Community Event,Opt Out,Active,No comment
+DON0000669,2024-01-01,Hudson,50-64,Hispanic or Latino,Female,Hospital,Opt In,Active,No comment
+DON0000670,2024-11-01,Long Island,50-64,Hispanic or Latino,Female,Hospital,Opt In,Active,No comment
+DON0000671,2024-10-01,Metro,50-64,Hispanic or Latino,Female,Online,Opt In,Active,Preference clarification
+DON0000672,2024-04-01,Western,0-17,White,Unknown,Online,Opt Out,Active,No comment
+DON0000673,2025-06-01,Capital,50-64,White,Female,Online,Opt In,Active,No comment
+DON0000674,2024-03-01,Long Island,50-64,Hispanic or Latino,Male,Other,Opt In,Active,No comment
+DON0000675,2024-01-01,Metro,65+,White,Female,DMV,Opt In,Active,No comment
+DON0000676,2025-12-01,Long Island,18-34,White,Male,Community Event,Opt Out,Active,No comment
+DON0000677,2025-06-01,Western,18-34,White,Male,DMV,Opt In,Active,Preference clarification
+DON0000678,2024-02-01,Hudson,50-64,Asian,Female,DMV,Opt In,Active,Duplicate review
+DON0000679,2025-08-01,Metro,18-34,Other or Unknown,Male,Hospital,Opt In,Active,No comment
+DON0000680,2025-05-01,Capital,35-49,Hispanic or Latino,Male,Other,Opt In,Active,No comment
+DON0000681,2024-08-01,Long Island,50-64,White,Male,Hospital,Opt In,Active,No comment
+DON0000682,2024-10-01,Western,65+,White,Female,DMV,Opt In,Active,No comment
+DON0000683,2025-12-01,Long Island,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0000684,2024-04-01,Long Island,35-49,White,Male,Online,Opt In,Active,Preference clarification
+DON0000685,2024-10-01,Metro,35-49,White,Female,DMV,Opt In,Deceased,No comment
+DON0000686,2024-12-01,Hudson,50-64,American Indian or Alaska Native,Male,Community Event,Opt Out,Active,No comment
+DON0000687,2024-07-01,Hudson,18-34,Asian,Female,Online,Opt In,Inactive,No comment
+DON0000688,2024-09-01,Hudson,0-17,Hispanic or Latino,Male,Community Event,Opt Out,Active,Preference clarification
+DON0000689,2024-02-01,Long Island,0-17,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0000690,2024-10-01,Central,50-64,Black or African American,Female,Online,Opt In,Active,No comment
+DON0000691,2024-06-01,Metro,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0000692,2024-12-01,Western,50-64,White,Male,Online,Opt In,Active,No comment
+DON0000693,2025-03-01,Long Island,0-17,Hispanic or Latino,Female,Other,Opt In,Active,No comment
+DON0000694,2024-01-01,Metro,18-34,White,Male,Online,Opt In,Active,No comment
+DON0000695,2025-07-01,Long Island,50-64,Hispanic or Latino,Male,DMV,Opt In,Active,Address update
+DON0000696,2024-01-01,Metro,50-64,White,Female,Online,Opt In,Active,No comment
+DON0000697,2024-12-01,Metro,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0000698,2025-03-01,Northern,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0000699,2024-02-01,Metro,18-34,White,Female,DMV,Opt Out,Active,No comment
+DON0000700,2025-06-01,Capital,0-17,White,Female,DMV,Opt In,Deceased,No comment
+DON0000701,2025-04-01,Metro,18-34,White,Male,Community Event,Opt In,Active,No comment
+DON0000702,2024-03-01,Metro,18-34,Asian,Male,DMV,Opt Out,Active,No comment
+DON0000703,2024-08-01,Hudson,65+,Other or Unknown,Female,DMV,Opt Out,Active,No comment
+DON0000704,2024-01-01,Long Island,0-17,Hispanic or Latino,Female,Online,Opt Out,Active,No comment
+DON0000705,2025-06-01,Metro,65+,American Indian or Alaska Native,Female,DMV,Opt In,Deceased,No comment
+DON0000706,2025-04-01,Metro,65+,White,Male,DMV,Opt In,Active,No comment
+DON0000707,2025-03-01,Capital,18-34,Asian,Male,DMV,Opt In,Active,No comment
+DON0000708,2025-12-01,Hudson,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000709,2024-05-01,Metro,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000710,2025-03-01,Metro,65+,White,Male,DMV,Opt In,Active,No comment
+DON0000711,2024-02-01,Western,18-34,Black or African American,Female,DMV,Opt In,Active,Needs follow-up
+DON0000712,2024-06-01,Long Island,35-49,White,Male,DMV,Opt Out,Active,No comment
+DON0000713,2024-04-01,Metro,0-17,Hispanic or Latino,Male,Community Event,Opt In,Active,No comment
+DON0000714,2024-01-01,Long Island,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000715,2025-02-01,Hudson,18-34,Other or Unknown,Female,Online,Opt In,Active,No comment
+DON0000716,2025-11-01,Metro,0-17,Asian,Female,DMV,Opt In,Active,Address update
+DON0000717,2025-07-01,Metro,18-34,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0000718,2024-01-01,Western,18-34,Black or African American,Female,DMV,Unknown,Active,Duplicate review
+DON0000719,2024-03-01,Metro,35-49,White,Female,Community Event,Opt Out,Active,No comment
+DON0000720,2024-08-01,Western,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,Address update
+DON0000721,2025-01-01,Long Island,0-17,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000722,2024-09-01,Metro,65+,Hispanic or Latino,Male,Online,Opt Out,Active,No comment
+DON0000723,2025-04-01,Central,0-17,White,Unknown,Other,Unknown,Active,Address update
+DON0000724,2024-08-01,Metro,0-17,White,Female,DMV,Opt In,Active,No comment
+DON0000725,2024-05-01,Hudson,18-34,White,Male,Online,Opt In,Active,Duplicate review
+DON0000726,2024-09-01,Central,50-64,Hispanic or Latino,Female,Online,Opt Out,Active,Address update
+DON0000727,2024-09-01,Western,65+,White,Female,Other,Opt In,Active,No comment
+DON0000728,2024-01-01,Long Island,18-34,White,Male,Online,Unknown,Active,Preference clarification
+DON0000729,2024-05-01,Western,18-34,White,Male,Community Event,Unknown,Active,No comment
+DON0000730,2025-09-01,Central,65+,White,Female,Hospital,Opt Out,Active,No comment
+DON0000731,2025-02-01,Metro,50-64,Black or African American,Female,Online,Opt Out,Active,No comment
+DON0000732,2025-06-01,Metro,35-49,White,Male,Other,Opt In,Active,No comment
+DON0000733,2025-09-01,Metro,50-64,Hispanic or Latino,Female,DMV,Opt In,Active,Needs follow-up
+DON0000734,2024-09-01,Central,0-17,Asian,Male,DMV,Opt Out,Active,No comment
+DON0000735,2024-06-01,Western,0-17,White,Male,DMV,Opt In,Active,No comment
+DON0000736,2025-05-01,Long Island,50-64,White,Male,Other,Opt In,Active,Needs follow-up
+DON0000737,2024-12-01,Capital,35-49,White,Male,Online,Opt Out,Active,No comment
+DON0000738,2025-06-01,Capital,65+,White,Male,DMV,Opt In,Active,No comment
+DON0000739,2024-11-01,Western,50-64,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0000740,2025-01-01,Metro,18-34,White,Male,Community Event,Opt In,Active,Address update
+DON0000741,2024-08-01,Metro,35-49,Other or Unknown,Male,DMV,Opt Out,Active,Address update
+DON0000742,2024-09-01,Metro,50-64,White,Male,DMV,Opt In,Active,Duplicate review
+DON0000743,2025-01-01,Metro,35-49,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0000744,2025-04-01,Long Island,50-64,Black or African American,Male,Other,Opt Out,Active,No comment
+DON0000745,2024-10-01,Capital,0-17,Asian,Male,Online,Opt In,Active,Duplicate review
+DON0000746,2025-01-01,Metro,35-49,White,Female,Online,Opt Out,Active,No comment
+DON0000747,2025-03-01,Long Island,35-49,White,Female,Online,Opt In,Active,No comment
+DON0000748,2025-02-01,Metro,18-34,Asian,Male,Online,Opt In,Active,No comment
+DON0000749,2024-04-01,Long Island,50-64,Black or African American,Female,DMV,Opt Out,Active,No comment
+DON0000750,2025-11-01,Hudson,0-17,Hispanic or Latino,Male,DMV,Opt In,Active,Needs follow-up
+DON0000751,2025-05-01,Hudson,18-34,White,Male,Community Event,Opt In,Active,Needs follow-up
+DON0000752,2024-09-01,Western,35-49,Asian,Male,DMV,Opt In,Active,Needs follow-up
+DON0000753,2025-09-01,Metro,50-64,White,Female,Online,Opt Out,Active,No comment
+DON0000754,2024-05-01,Northern,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000755,2025-01-01,Metro,50-64,White,Female,Online,Opt Out,Active,Preference clarification
+DON0000756,2024-10-01,Northern,65+,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0000757,2025-03-01,Long Island,35-49,White,Male,Other,Opt In,Active,No comment
+DON0000758,2025-06-01,Metro,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0000759,2025-02-01,Long Island,18-34,Other or Unknown,Female,Online,Opt In,Active,Address update
+DON0000760,2025-02-01,Metro,65+,White,Female,DMV,Opt In,Active,Address update
+DON0000761,2024-08-01,Long Island,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0000762,2025-02-01,Hudson,65+,White,Female,Online,Opt In,Active,No comment
+DON0000763,2025-11-01,Metro,65+,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0000764,2025-07-01,Western,0-17,Other or Unknown,Male,Online,Opt In,Active,No comment
+DON0000765,2025-02-01,Hudson,65+,Hispanic or Latino,Male,DMV,Unknown,Inactive,No comment
+DON0000766,2025-06-01,Long Island,35-49,White,Male,Community Event,Opt In,Active,Needs follow-up
+DON0000767,2024-09-01,Long Island,50-64,Black or African American,Female,DMV,Opt Out,Active,Preference clarification
+DON0000768,2025-01-01,Capital,35-49,Hispanic or Latino,Male,Community Event,Opt In,Active,No comment
+DON0000769,2024-02-01,Hudson,18-34,White,Male,DMV,Opt In,Active,Needs follow-up
+DON0000770,2024-12-01,Northern,35-49,White,Male,Online,Opt In,Active,No comment
+DON0000771,2024-12-01,Metro,50-64,Asian,Male,Online,Opt In,Active,No comment
+DON0000772,2025-12-01,Capital,0-17,White,Male,Online,Opt Out,Active,No comment
+DON0000773,2024-03-01,Metro,65+,White,Male,DMV,Opt Out,Active,Preference clarification
+DON0000774,2024-12-01,Western,65+,Black or African American,Male,Online,Opt In,Active,No comment
+DON0000775,2025-02-01,Capital,35-49,Hispanic or Latino,Female,Community Event,Unknown,Active,No comment
+DON0000776,2024-10-01,Northern,50-64,White,Female,DMV,Opt In,Active,Address update
+DON0000777,2024-01-01,Capital,50-64,Asian,Female,DMV,Opt In,Active,Duplicate review
+DON0000778,2025-11-01,Metro,65+,White,Male,Other,Opt In,Active,No comment
+DON0000779,2024-08-01,Long Island,35-49,Hispanic or Latino,Female,Online,Opt Out,Active,Preference clarification
+DON0000780,2024-12-01,Metro,0-17,Black or African American,Male,Hospital,Opt In,Active,No comment
+DON0000781,2024-09-01,Capital,18-34,Hispanic or Latino,Male,DMV,Unknown,Active,No comment
+DON0000782,2024-08-01,Capital,0-17,Hispanic or Latino,Male,DMV,Opt In,Active,Address update
+DON0000783,2025-03-01,Hudson,35-49,Hispanic or Latino,Male,Community Event,Opt In,Active,No comment
+DON0000784,2024-05-01,Metro,0-17,White,Female,Other,Unknown,Active,No comment
+DON0000785,2025-05-01,Capital,65+,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000786,2024-07-01,Metro,35-49,Other or Unknown,Female,Community Event,Opt In,Active,No comment
+DON0000787,2024-04-01,Metro,18-34,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0000788,2025-02-01,Metro,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000789,2025-04-01,Long Island,65+,White,Male,Online,Unknown,Active,No comment
+DON0000790,2024-02-01,Metro,0-17,Hispanic or Latino,Male,DMV,Opt In,Active,Needs follow-up
+DON0000791,2025-05-01,Metro,0-17,White,Female,Community Event,Opt In,Active,No comment
+DON0000792,2024-03-01,Metro,35-49,White,Female,Online,Opt In,Active,No comment
+DON0000793,2025-02-01,Western,50-64,Black or African American,Male,Online,Opt In,Active,No comment
+DON0000794,2025-04-01,Hudson,18-34,Asian,Male,DMV,Opt In,Active,No comment
+DON0000795,2025-06-01,Northern,50-64,White,Male,Online,Opt In,Active,No comment
+DON0000796,2025-06-01,Hudson,50-64,Other or Unknown,Male,Community Event,Opt Out,Active,Address update
+DON0000797,2025-04-01,Long Island,18-34,White,Male,Hospital,Opt In,Active,No comment
+DON0000798,2025-01-01,Capital,0-17,Other or Unknown,Male,DMV,Opt In,Inactive,No comment
+DON0000799,2025-10-01,Western,35-49,White,Female,DMV,Opt In,Inactive,Needs follow-up
+DON0000800,2025-11-01,Western,18-34,Hispanic or Latino,Male,DMV,Opt Out,Active,No comment
+DON0000801,2025-05-01,Metro,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0000802,2025-09-01,Metro,50-64,Black or African American,Male,Online,Opt In,Active,Preference clarification
+DON0000803,2024-03-01,Metro,50-64,White,Female,Online,Opt In,Active,Address update
+DON0000804,2024-02-01,Metro,65+,White,Female,Online,Opt In,Active,No comment
+DON0000805,2025-08-01,Capital,65+,White,Female,DMV,Opt In,Active,No comment
+DON0000806,2025-03-01,Central,18-34,White,Female,Community Event,Opt In,Active,No comment
+DON0000807,2025-08-01,Metro,35-49,Asian,Unknown,Online,Opt Out,Active,No comment
+DON0000808,2025-05-01,Long Island,50-64,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0000809,2025-02-01,Central,65+,White,Male,DMV,Opt In,Active,No comment
+DON0000810,2025-01-01,Metro,65+,White,Female,Community Event,Opt In,Active,No comment
+DON0000811,2024-07-01,Metro,65+,White,Male,DMV,Opt In,Active,Address update
+DON0000812,2025-12-01,Long Island,65+,White,Female,Online,Opt In,Active,No comment
+DON0000813,2025-01-01,Metro,18-34,Black or African American,Female,Online,Opt In,Active,No comment
+DON0000814,2025-05-01,Metro,50-64,American Indian or Alaska Native,Female,Hospital,Opt In,Active,Preference clarification
+DON0000815,2024-07-01,Long Island,18-34,White,Unknown,Other,Unknown,Active,No comment
+DON0000816,2025-06-01,Metro,0-17,White,Female,Online,Opt In,Active,Address update
+DON0000817,2025-10-01,Metro,35-49,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0000818,2025-08-01,Central,50-64,Asian,Male,Other,Opt Out,Active,No comment
+DON0000819,2025-04-01,Long Island,18-34,White,Female,DMV,Opt In,Active,Address update
+DON0000820,2024-02-01,Hudson,50-64,Other or Unknown,Female,Online,Opt In,Deceased,No comment
+DON0000821,2024-06-01,Capital,65+,Hispanic or Latino,Female,Community Event,Opt Out,Active,No comment
+DON0000822,2025-02-01,Long Island,0-17,Black or African American,Female,Community Event,Opt In,Inactive,No comment
+DON0000823,2025-08-01,Western,50-64,White,Female,Online,Opt Out,Active,Preference clarification
+DON0000824,2024-10-01,Long Island,18-34,Asian,Female,Online,Unknown,Active,No comment
+DON0000825,2024-09-01,Hudson,18-34,Black or African American,Female,Online,Opt In,Active,Duplicate review
+DON0000826,2025-05-01,Central,35-49,Black or African American,Male,DMV,Opt Out,Active,No comment
+DON0000827,2025-05-01,Northern,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0000828,2025-01-01,Long Island,18-34,Asian,Male,DMV,Opt In,Active,No comment
+DON0000829,2025-10-01,Long Island,65+,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000830,2024-03-01,Metro,65+,White,Male,Online,Opt Out,Active,Address update
+DON0000831,2024-11-01,Northern,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000832,2024-09-01,Long Island,65+,White,Male,Other,Opt Out,Active,No comment
+DON0000833,2024-10-01,Hudson,65+,White,Female,Online,Opt Out,Active,Needs follow-up
+DON0000834,2025-05-01,Capital,50-64,Black or African American,Male,DMV,Opt In,Active,Needs follow-up
+DON0000835,2025-12-01,Capital,18-34,Asian,Male,Online,Opt In,Active,No comment
+DON0000836,2024-09-01,Western,18-34,White,Female,Community Event,Opt In,Active,Address update
+DON0000837,2024-09-01,Long Island,0-17,White,Male,DMV,Opt In,Active,No comment
+DON0000838,2025-07-01,Long Island,35-49,Black or African American,Female,Community Event,Opt In,Active,No comment
+DON0000839,2025-04-01,Hudson,0-17,White,Male,DMV,Opt In,Deceased,No comment
+DON0000840,2025-04-01,Metro,35-49,White,Male,Hospital,Opt In,Active,No comment
+DON0000841,2024-11-01,Hudson,18-34,Black or African American,Female,Other,Opt Out,Active,No comment
+DON0000842,2024-03-01,Long Island,50-64,White,Female,Hospital,Opt In,Active,No comment
+DON0000843,2025-06-01,Long Island,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000844,2024-04-01,Hudson,35-49,Hispanic or Latino,Female,Hospital,Opt Out,Active,No comment
+DON0000845,2025-06-01,Long Island,0-17,White,Male,DMV,Unknown,Active,No comment
+DON0000846,2025-09-01,Metro,0-17,Black or African American,Female,Community Event,Opt In,Active,No comment
+DON0000847,2024-03-01,Western,35-49,Hispanic or Latino,Female,DMV,Opt In,Deceased,No comment
+DON0000848,2025-04-01,Long Island,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000849,2025-02-01,Western,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0000850,2024-07-01,Central,50-64,White,Female,DMV,Opt Out,Active,Needs follow-up
+DON0000851,2025-05-01,Long Island,0-17,Black or African American,Unknown,Online,Opt Out,Inactive,No comment
+DON0000852,2024-10-01,Metro,35-49,White,Male,Online,Opt In,Active,No comment
+DON0000853,2024-04-01,Long Island,35-49,Other or Unknown,Male,Community Event,Opt In,Inactive,Needs follow-up
+DON0000854,2025-10-01,Long Island,50-64,White,Male,Community Event,Opt In,Active,No comment
+DON0000855,2025-11-01,Hudson,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000856,2024-12-01,Long Island,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000857,2025-02-01,Central,65+,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0000858,2025-11-01,Capital,50-64,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0000859,2024-08-01,Northern,65+,Asian,Female,Online,Opt Out,Active,No comment
+DON0000860,2025-11-01,Metro,0-17,White,Male,Hospital,Unknown,Active,No comment
+DON0000861,2025-02-01,Long Island,18-34,White,Female,DMV,Opt In,Inactive,Preference clarification
+DON0000862,2025-07-01,Central,0-17,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0000863,2024-08-01,Metro,18-34,White,Male,DMV,Opt In,Active,Address update
+DON0000864,2024-09-01,Hudson,65+,Black or African American,Female,DMV,Opt Out,Active,Preference clarification
+DON0000865,2025-08-01,Metro,0-17,White,Male,Community Event,Opt In,Inactive,Needs follow-up
+DON0000866,2024-04-01,Long Island,65+,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0000867,2025-08-01,Metro,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000868,2025-06-01,Metro,35-49,Asian,Male,Other,Opt Out,Active,No comment
+DON0000869,2024-07-01,Long Island,18-34,Asian,Female,Other,Opt In,Active,Needs follow-up
+DON0000870,2024-07-01,Hudson,65+,White,Female,DMV,Opt Out,Active,Needs follow-up
+DON0000871,2024-04-01,Hudson,50-64,Other or Unknown,Male,Other,Opt Out,Active,Preference clarification
+DON0000872,2024-02-01,Hudson,18-34,White,Unknown,DMV,Unknown,Active,No comment
+DON0000873,2024-11-01,Metro,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0000874,2025-05-01,Metro,65+,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0000875,2025-10-01,Central,35-49,White,Male,DMV,Opt In,Active,Preference clarification
+DON0000876,2025-06-01,Hudson,65+,White,Female,DMV,Opt In,Active,Needs follow-up
+DON0000877,2025-03-01,Metro,35-49,White,Female,Online,Opt In,Inactive,Address update
+DON0000878,2024-10-01,Western,35-49,White,Female,Hospital,Unknown,Active,No comment
+DON0000879,2024-07-01,Metro,18-34,Other or Unknown,Male,DMV,Unknown,Active,Address update
+DON0000880,2024-07-01,Western,0-17,Black or African American,Male,Other,Opt In,Active,No comment
+DON0000881,2024-02-01,Long Island,18-34,Hispanic or Latino,Male,Online,Opt In,Inactive,No comment
+DON0000882,2025-03-01,Long Island,50-64,White,Male,DMV,Opt In,Inactive,No comment
+DON0000883,2024-09-01,Metro,0-17,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0000884,2025-09-01,Metro,35-49,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0000885,2025-07-01,Long Island,65+,White,Male,DMV,Opt In,Active,Address update
+DON0000886,2025-11-01,Metro,18-34,Other or Unknown,Female,Community Event,Unknown,Active,No comment
+DON0000887,2025-05-01,Long Island,18-34,White,Male,Hospital,Opt Out,Active,No comment
+DON0000888,2024-05-01,Northern,0-17,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0000889,2024-05-01,Hudson,0-17,White,Male,DMV,Unknown,Active,No comment
+DON0000890,2024-02-01,Long Island,18-34,White,Female,Hospital,Opt In,Active,No comment
+DON0000891,2025-12-01,Metro,18-34,White,Male,DMV,Opt In,Deceased,No comment
+DON0000892,2024-11-01,Western,0-17,Asian,Female,Online,Opt In,Active,Needs follow-up
+DON0000893,2024-10-01,Long Island,0-17,Black or African American,Male,Other,Opt In,Active,No comment
+DON0000894,2025-10-01,Metro,50-64,White,Male,DMV,Opt Out,Active,No comment
+DON0000895,2024-01-01,Central,35-49,Hispanic or Latino,Female,Hospital,Unknown,Active,Preference clarification
+DON0000896,2024-10-01,Western,0-17,White,Male,Online,Opt In,Active,Address update
+DON0000897,2025-09-01,Hudson,50-64,White,Female,Other,Opt Out,Active,No comment
+DON0000898,2024-09-01,Long Island,50-64,White,Male,Other,Opt In,Active,No comment
+DON0000899,2025-06-01,Metro,18-34,White,Female,Online,Opt In,Deceased,No comment
+DON0000900,2025-06-01,Long Island,18-34,Other or Unknown,Female,DMV,Opt In,Active,No comment
+DON0000901,2025-06-01,Metro,35-49,White,Female,Online,Opt In,Active,Address update
+DON0000902,2025-08-01,Metro,35-49,White,Female,Online,Opt In,Active,Duplicate review
+DON0000903,2024-04-01,Capital,0-17,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0000904,2025-07-01,Hudson,65+,White,Female,Online,Opt In,Active,No comment
+DON0000905,2025-03-01,Western,0-17,White,Female,Hospital,Opt In,Deceased,No comment
+DON0000906,2025-03-01,Metro,65+,White,Female,DMV,Opt In,Active,No comment
+DON0000907,2025-05-01,Hudson,18-34,Hispanic or Latino,Male,Community Event,Opt In,Active,No comment
+DON0000908,2024-09-01,Central,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0000909,2024-11-01,Long Island,65+,Hispanic or Latino,Female,DMV,Opt Out,Deceased,Preference clarification
+DON0000910,2024-02-01,Northern,65+,White,Male,DMV,Opt In,Deceased,No comment
+DON0000911,2024-04-01,Long Island,50-64,Black or African American,Female,Other,Opt In,Active,No comment
+DON0000912,2024-03-01,Metro,18-34,White,Female,DMV,Opt In,Active,Needs follow-up
+DON0000913,2025-04-01,Capital,18-34,Other or Unknown,Female,DMV,Unknown,Active,Needs follow-up
+DON0000914,2024-08-01,Metro,65+,Black or African American,Male,DMV,Opt Out,Active,No comment
+DON0000915,2024-05-01,Long Island,18-34,Other or Unknown,Male,DMV,Opt In,Active,No comment
+DON0000916,2024-09-01,Central,50-64,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0000917,2025-02-01,Metro,0-17,White,Male,Hospital,Opt In,Active,Needs follow-up
+DON0000918,2025-02-01,Metro,35-49,Asian,Male,Online,Opt In,Active,No comment
+DON0000919,2025-12-01,Long Island,18-34,White,Female,DMV,Unknown,Inactive,Needs follow-up
+DON0000920,2024-02-01,Long Island,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0000921,2024-12-01,Western,35-49,Hispanic or Latino,Male,Other,Opt In,Active,Duplicate review
+DON0000922,2024-12-01,Metro,50-64,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000923,2024-11-01,Capital,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0000924,2025-12-01,Western,18-34,White,Female,DMV,Opt Out,Active,No comment
+DON0000925,2024-04-01,Long Island,35-49,Black or African American,Female,DMV,Unknown,Active,No comment
+DON0000926,2025-02-01,Northern,65+,White,Female,Hospital,Opt In,Active,No comment
+DON0000927,2024-03-01,Central,65+,Other or Unknown,Male,DMV,Opt In,Active,No comment
+DON0000928,2025-08-01,Central,18-34,Asian,Female,DMV,Unknown,Active,No comment
+DON0000929,2025-08-01,Northern,65+,White,Male,DMV,Opt In,Active,No comment
+DON0000930,2024-09-01,Western,35-49,White,Female,Online,Opt In,Active,No comment
+DON0000931,2025-11-01,Metro,65+,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000932,2025-07-01,Long Island,0-17,Hispanic or Latino,Female,Community Event,Opt In,Active,No comment
+DON0000933,2024-01-01,Western,0-17,White,Male,Community Event,Opt In,Active,No comment
+DON0000934,2025-01-01,Central,50-64,Other or Unknown,Male,DMV,Opt In,Active,No comment
+DON0000935,2025-03-01,Metro,50-64,White,Male,DMV,Opt Out,Active,No comment
+DON0000936,2024-05-01,Metro,35-49,White,Female,Online,Opt In,Active,Address update
+DON0000937,2025-07-01,Metro,65+,White,Male,DMV,Opt In,Active,No comment
+DON0000938,2024-04-01,Metro,50-64,White,Male,Online,Opt In,Active,Preference clarification
+DON0000939,2025-06-01,Long Island,35-49,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0000940,2024-09-01,Metro,50-64,Hispanic or Latino,Unknown,Other,Opt Out,Active,No comment
+DON0000941,2025-01-01,Capital,35-49,Asian,Male,Community Event,Opt In,Active,No comment
+DON0000942,2025-06-01,Long Island,50-64,Other or Unknown,Male,DMV,Opt In,Inactive,Preference clarification
+DON0000943,2025-01-01,Long Island,50-64,Other or Unknown,Female,DMV,Opt Out,Active,No comment
+DON0000944,2024-02-01,Long Island,0-17,White,Male,DMV,Opt In,Deceased,Needs follow-up
+DON0000945,2024-09-01,Long Island,35-49,White,Female,Online,Opt In,Active,No comment
+DON0000946,2025-07-01,Central,35-49,White,Male,Hospital,Opt In,Active,No comment
+DON0000947,2024-08-01,Hudson,50-64,White,Female,Other,Opt In,Active,No comment
+DON0000948,2025-01-01,Metro,35-49,Black or African American,Male,Other,Opt In,Active,Preference clarification
+DON0000949,2024-09-01,Western,0-17,White,Female,Other,Opt In,Inactive,No comment
+DON0000950,2025-06-01,Hudson,35-49,White,Female,DMV,Opt In,Active,Duplicate review
+DON0000951,2024-05-01,Long Island,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0000952,2025-05-01,Central,50-64,White,Female,DMV,Opt Out,Active,No comment
+DON0000953,2024-05-01,Metro,18-34,White,Male,Hospital,Opt In,Active,No comment
+DON0000954,2024-04-01,Long Island,18-34,White,Male,Hospital,Opt In,Active,Needs follow-up
+DON0000955,2025-02-01,Metro,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0000956,2025-10-01,Northern,50-64,Hispanic or Latino,Female,Other,Unknown,Active,No comment
+DON0000957,2024-09-01,Central,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0000958,2025-12-01,Capital,0-17,Hispanic or Latino,Male,Hospital,Opt In,Active,Address update
+DON0000959,2024-08-01,Long Island,65+,American Indian or Alaska Native,Female,Online,Opt In,Active,Needs follow-up
+DON0000960,2024-11-01,Metro,65+,Black or African American,Female,Online,Opt In,Active,Address update
+DON0000961,2024-06-01,Western,35-49,Asian,Male,Other,Opt In,Active,No comment
+DON0000962,2025-10-01,Capital,35-49,White,Male,Other,Unknown,Active,No comment
+DON0000963,2024-09-01,Long Island,65+,White,Female,Online,Opt Out,Active,No comment
+DON0000964,2025-01-01,Metro,50-64,White,Male,DMV,Unknown,Active,No comment
+DON0000965,2025-10-01,Metro,50-64,White,Female,Online,Opt In,Inactive,No comment
+DON0000966,2025-07-01,Central,18-34,White,Male,Community Event,Opt Out,Active,No comment
+DON0000967,2024-08-01,Metro,18-34,White,Male,Hospital,Opt Out,Inactive,Address update
+DON0000968,2025-09-01,Hudson,35-49,White,Male,Online,Opt In,Active,No comment
+DON0000969,2024-10-01,Long Island,50-64,White,Female,DMV,Unknown,Active,No comment
+DON0000970,2024-11-01,Metro,0-17,Hispanic or Latino,Male,DMV,Opt Out,Active,No comment
+DON0000971,2025-02-01,Central,35-49,White,Female,Online,Opt In,Active,Needs follow-up
+DON0000972,2025-04-01,Metro,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0000973,2024-05-01,Capital,50-64,Hispanic or Latino,Female,Community Event,Opt In,Deceased,No comment
+DON0000974,2025-04-01,Central,50-64,White,Female,Hospital,Opt Out,Active,No comment
+DON0000975,2025-12-01,Metro,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0000976,2024-01-01,Metro,18-34,White,Female,Other,Unknown,Active,No comment
+DON0000977,2024-12-01,Metro,65+,White,Female,DMV,Opt In,Active,No comment
+DON0000978,2025-07-01,Long Island,65+,Black or African American,Male,Community Event,Opt Out,Active,No comment
+DON0000979,2024-06-01,Long Island,65+,Hispanic or Latino,Male,Community Event,Opt Out,Active,No comment
+DON0000980,2025-07-01,Metro,50-64,White,Male,Online,Opt In,Active,No comment
+DON0000981,2025-08-01,Hudson,65+,White,Male,Community Event,Opt In,Active,Address update
+DON0000982,2025-10-01,Long Island,0-17,White,Male,Online,Opt In,Active,No comment
+DON0000983,2025-08-01,Western,35-49,White,Female,Online,Opt In,Active,Preference clarification
+DON0000984,2025-09-01,Long Island,35-49,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0000985,2025-01-01,Long Island,35-49,White,Male,DMV,Unknown,Active,No comment
+DON0000986,2025-07-01,Metro,0-17,White,Female,Community Event,Opt In,Active,Preference clarification
+DON0000987,2025-09-01,Metro,0-17,Hispanic or Latino,Male,Hospital,Opt In,Active,No comment
+DON0000988,2025-05-01,Western,50-64,Black or African American,Female,DMV,Unknown,Active,Needs follow-up
+DON0000989,2024-03-01,Western,50-64,White,Male,Online,Opt In,Active,No comment
+DON0000990,2025-03-01,Metro,65+,White,Female,DMV,Opt In,Active,No comment
+DON0000991,2024-09-01,Metro,0-17,White,Male,DMV,Opt Out,Active,Address update
+DON0000992,2024-05-01,Metro,18-34,Black or African American,Female,Online,Opt Out,Active,No comment
+DON0000993,2025-11-01,Northern,65+,Other or Unknown,Unknown,Online,Unknown,Active,No comment
+DON0000994,2024-01-01,Long Island,18-34,White,Male,Other,Opt In,Active,No comment
+DON0000995,2024-02-01,Capital,35-49,Hispanic or Latino,Unknown,Online,Opt In,Deceased,No comment
+DON0000996,2025-11-01,Long Island,0-17,Asian,Male,DMV,Unknown,Active,No comment
+DON0000997,2024-07-01,Metro,18-34,Asian,Male,Other,Opt In,Active,No comment
+DON0000998,2024-10-01,Long Island,0-17,White,Female,DMV,Opt In,Active,Duplicate review
+DON0000999,2025-08-01,Capital,0-17,Hispanic or Latino,Male,DMV,Opt In,Active,Needs follow-up
+DON0001000,2025-05-01,Metro,65+,White,Male,Other,Unknown,Active,No comment
+DON0001001,2025-12-01,Northern,18-34,White,Male,Community Event,Opt In,Active,No comment
+DON0001002,2025-10-01,Central,35-49,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0001003,2025-06-01,Metro,50-64,White,Male,Community Event,Opt In,Active,No comment
+DON0001004,2024-04-01,Hudson,35-49,Black or African American,Male,Online,Opt In,Active,No comment
+DON0001005,2025-06-01,Long Island,50-64,Other or Unknown,Male,Other,Opt Out,Active,No comment
+DON0001006,2025-05-01,Western,50-64,White,Male,Online,Opt In,Active,No comment
+DON0001007,2025-08-01,Metro,35-49,White,Male,DMV,Opt Out,Active,No comment
+DON0001008,2024-12-01,Hudson,50-64,White,Male,Hospital,Opt In,Active,No comment
+DON0001009,2025-12-01,Western,35-49,Hispanic or Latino,Female,Other,Opt In,Active,No comment
+DON0001010,2025-06-01,Metro,35-49,White,Female,Online,Unknown,Active,Duplicate review
+DON0001011,2024-11-01,Metro,35-49,White,Female,Hospital,Opt In,Active,No comment
+DON0001012,2024-04-01,Metro,0-17,Other or Unknown,Male,Online,Opt In,Active,No comment
+DON0001013,2025-03-01,Central,65+,White,Female,DMV,Opt In,Active,Preference clarification
+DON0001014,2025-12-01,Metro,0-17,White,Male,DMV,Opt In,Active,No comment
+DON0001015,2025-04-01,Long Island,50-64,Black or African American,Male,DMV,Opt Out,Active,No comment
+DON0001016,2024-05-01,Long Island,35-49,Asian,Male,DMV,Opt In,Active,No comment
+DON0001017,2024-03-01,Metro,50-64,American Indian or Alaska Native,Female,DMV,Unknown,Active,No comment
+DON0001018,2025-01-01,Capital,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0001019,2025-05-01,Central,18-34,White,Female,Community Event,Opt In,Active,No comment
+DON0001020,2024-05-01,Western,18-34,White,Male,Online,Opt In,Deceased,No comment
+DON0001021,2025-12-01,Long Island,18-34,White,Female,Hospital,Opt Out,Active,Preference clarification
+DON0001022,2024-03-01,Metro,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0001023,2025-12-01,Metro,50-64,White,Female,Hospital,Opt In,Active,No comment
+DON0001024,2024-07-01,Hudson,35-49,Other or Unknown,Male,Other,Opt In,Active,No comment
+DON0001025,2025-10-01,Capital,18-34,Hispanic or Latino,Male,Online,Opt In,Active,Address update
+DON0001026,2024-02-01,Western,65+,White,Female,DMV,Opt Out,Active,No comment
+DON0001027,2025-08-01,Metro,35-49,Black or African American,Male,Online,Opt In,Active,No comment
+DON0001028,2024-06-01,Long Island,18-34,Other or Unknown,Male,Community Event,Unknown,Active,No comment
+DON0001029,2025-05-01,Capital,35-49,White,Male,Online,Opt Out,Active,No comment
+DON0001030,2025-02-01,Long Island,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0001031,2024-01-01,Metro,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0001032,2025-07-01,Central,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,Preference clarification
+DON0001033,2025-09-01,Metro,18-34,White,Male,Online,Opt In,Active,No comment
+DON0001034,2024-01-01,Metro,50-64,Hispanic or Latino,Unknown,Community Event,Opt In,Active,No comment
+DON0001035,2025-05-01,Long Island,18-34,White,Male,Online,Opt In,Active,No comment
+DON0001036,2024-01-01,Metro,50-64,White,Male,Other,Opt In,Active,No comment
+DON0001037,2024-03-01,Long Island,35-49,Black or African American,Female,DMV,Opt In,Active,Address update
+DON0001038,2025-09-01,Hudson,0-17,White,Male,Online,Opt In,Active,No comment
+DON0001039,2025-06-01,Metro,18-34,White,Male,Online,Opt In,Active,No comment
+DON0001040,2025-06-01,Metro,0-17,Black or African American,Female,Hospital,Opt Out,Active,No comment
+DON0001041,2025-06-01,Northern,35-49,White,Female,Hospital,Opt Out,Active,Address update
+DON0001042,2024-08-01,Capital,65+,White,Female,Online,Opt Out,Active,No comment
+DON0001043,2025-09-01,Western,65+,White,Male,DMV,Opt In,Active,No comment
+DON0001044,2025-08-01,Western,18-34,Hispanic or Latino,Female,Hospital,Opt In,Active,Preference clarification
+DON0001045,2024-04-01,Northern,18-34,Asian,Female,Other,Opt Out,Active,No comment
+DON0001046,2024-03-01,Long Island,18-34,Other or Unknown,Male,DMV,Opt Out,Active,Preference clarification
+DON0001047,2024-05-01,Capital,65+,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0001048,2024-08-01,Metro,35-49,Hispanic or Latino,Female,Other,Opt In,Active,No comment
+DON0001049,2024-09-01,Metro,50-64,Asian,Male,DMV,Opt In,Active,No comment
+DON0001050,2024-06-01,Long Island,18-34,Black or African American,Male,Other,Opt In,Active,No comment
+DON0001051,2025-11-01,Metro,18-34,White,Male,Online,Opt In,Active,No comment
+DON0001052,2024-02-01,Metro,65+,White,Female,Online,Opt In,Active,No comment
+DON0001053,2024-11-01,Long Island,50-64,Black or African American,Female,Online,Opt Out,Active,No comment
+DON0001054,2024-04-01,Central,50-64,Hispanic or Latino,Female,DMV,Opt In,Active,Address update
+DON0001055,2024-08-01,Metro,50-64,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0001056,2025-03-01,Metro,0-17,White,Female,DMV,Unknown,Active,No comment
+DON0001057,2024-03-01,Long Island,18-34,White,Male,Community Event,Opt In,Active,No comment
+DON0001058,2024-04-01,Long Island,0-17,Other or Unknown,Male,Online,Opt In,Active,Preference clarification
+DON0001059,2025-11-01,Metro,50-64,White,Female,DMV,Unknown,Active,No comment
+DON0001060,2025-05-01,Long Island,18-34,White,Male,Other,Unknown,Active,No comment
+DON0001061,2024-09-01,Long Island,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0001062,2025-11-01,Metro,35-49,White,Female,Online,Opt In,Inactive,No comment
+DON0001063,2024-07-01,Capital,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0001064,2024-02-01,Metro,50-64,Black or African American,Female,Online,Opt Out,Active,No comment
+DON0001065,2025-04-01,Hudson,50-64,White,Female,Community Event,Opt In,Active,No comment
+DON0001066,2025-10-01,Metro,35-49,White,Male,DMV,Opt In,Active,Address update
+DON0001067,2025-04-01,Metro,18-34,Black or African American,Female,DMV,Unknown,Active,No comment
+DON0001068,2025-08-01,Western,50-64,Black or African American,Male,Online,Opt Out,Active,No comment
+DON0001069,2024-11-01,Long Island,0-17,White,Male,DMV,Opt In,Inactive,No comment
+DON0001070,2024-02-01,Long Island,18-34,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0001071,2025-09-01,Western,50-64,Asian,Male,DMV,Unknown,Active,No comment
+DON0001072,2024-12-01,Northern,0-17,White,Male,Community Event,Opt In,Active,Duplicate review
+DON0001073,2025-11-01,Western,50-64,White,Female,Hospital,Opt In,Active,No comment
+DON0001074,2025-01-01,Hudson,35-49,White,Female,DMV,Opt In,Deceased,No comment
+DON0001075,2025-02-01,Central,0-17,Other or Unknown,Female,DMV,Opt In,Active,Preference clarification
+DON0001076,2024-10-01,Central,0-17,Asian,Male,Other,Opt In,Active,No comment
+DON0001077,2025-04-01,Long Island,65+,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0001078,2024-06-01,Capital,35-49,White,Male,Community Event,Opt In,Active,Duplicate review
+DON0001079,2025-02-01,Northern,65+,White,Male,Community Event,Opt In,Active,No comment
+DON0001080,2024-06-01,Metro,50-64,Asian,Female,Online,Opt In,Active,Address update
+DON0001081,2025-06-01,Metro,65+,White,Female,Community Event,Opt In,Active,Duplicate review
+DON0001082,2024-11-01,Northern,35-49,Asian,Male,DMV,Opt In,Inactive,No comment
+DON0001083,2024-05-01,Hudson,50-64,Black or African American,Male,DMV,Unknown,Active,No comment
+DON0001084,2025-12-01,Long Island,50-64,White,Female,Other,Opt In,Active,No comment
+DON0001085,2025-12-01,Metro,65+,White,Male,Hospital,Opt In,Active,No comment
+DON0001086,2024-11-01,Hudson,50-64,Hispanic or Latino,Male,DMV,Opt In,Active,Needs follow-up
+DON0001087,2024-11-01,Capital,50-64,Hispanic or Latino,Female,Community Event,Opt In,Inactive,Preference clarification
+DON0001088,2024-08-01,Capital,50-64,Black or African American,Male,DMV,Unknown,Active,Preference clarification
+DON0001089,2025-03-01,Metro,50-64,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0001090,2024-06-01,Metro,18-34,White,Female,Other,Opt In,Active,No comment
+DON0001091,2024-08-01,Northern,0-17,White,Unknown,Hospital,Opt In,Active,No comment
+DON0001092,2024-11-01,Central,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0001093,2024-10-01,Hudson,35-49,Hispanic or Latino,Female,Online,Opt Out,Active,Preference clarification
+DON0001094,2025-12-01,Metro,35-49,White,Female,Hospital,Opt Out,Inactive,No comment
+DON0001095,2025-02-01,Western,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0001096,2025-07-01,Hudson,65+,White,Male,Community Event,Unknown,Active,No comment
+DON0001097,2025-09-01,Capital,65+,White,Male,DMV,Opt Out,Inactive,No comment
+DON0001098,2025-12-01,Metro,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0001099,2024-10-01,Capital,18-34,Black or African American,Male,Online,Unknown,Active,No comment
+DON0001100,2024-12-01,Metro,0-17,Hispanic or Latino,Male,DMV,Unknown,Active,Duplicate review
+DON0001101,2025-10-01,Long Island,50-64,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0001102,2024-01-01,Metro,0-17,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0001103,2025-09-01,Western,18-34,White,Female,Online,Opt In,Active,Needs follow-up
+DON0001104,2025-01-01,Hudson,65+,White,Male,Online,Opt In,Active,No comment
+DON0001105,2024-02-01,Western,18-34,Black or African American,Male,DMV,Opt Out,Active,Needs follow-up
+DON0001106,2024-07-01,Hudson,35-49,Black or African American,Female,Online,Opt In,Active,No comment
+DON0001107,2024-05-01,Metro,0-17,Hispanic or Latino,Female,Community Event,Opt In,Active,Address update
+DON0001108,2025-10-01,Metro,35-49,Other or Unknown,Female,Online,Opt In,Active,No comment
+DON0001109,2024-05-01,Western,35-49,Black or African American,Male,Online,Opt In,Active,No comment
+DON0001110,2024-10-01,Long Island,0-17,White,Male,DMV,Opt In,Active,Duplicate review
+DON0001111,2025-09-01,Hudson,18-34,White,Female,Other,Opt In,Active,No comment
+DON0001112,2024-09-01,Metro,65+,Black or African American,Female,Online,Opt In,Active,No comment
+DON0001113,2025-12-01,Hudson,35-49,White,Male,Online,Opt In,Deceased,No comment
+DON0001114,2025-05-01,Hudson,35-49,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0001115,2025-01-01,Metro,50-64,Black or African American,Male,DMV,Opt In,Inactive,No comment
+DON0001116,2025-01-01,Capital,0-17,White,Female,Hospital,Opt In,Active,Duplicate review
+DON0001117,2024-03-01,Metro,18-34,Black or African American,Male,Other,Opt In,Active,No comment
+DON0001118,2025-06-01,Metro,0-17,White,Female,Community Event,Opt In,Inactive,No comment
+DON0001119,2025-02-01,Western,50-64,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0001120,2025-04-01,Long Island,0-17,White,Female,Online,Opt In,Active,No comment
+DON0001121,2025-04-01,Metro,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0001122,2024-02-01,Western,0-17,White,Female,DMV,Opt Out,Active,No comment
+DON0001123,2025-07-01,Metro,65+,White,Female,Online,Unknown,Inactive,Preference clarification
+DON0001124,2024-07-01,Metro,18-34,Black or African American,Male,Other,Opt In,Active,No comment
+DON0001125,2024-06-01,Capital,35-49,Asian,Male,DMV,Opt In,Active,No comment
+DON0001126,2025-04-01,Western,35-49,White,Female,Online,Opt In,Active,No comment
+DON0001127,2024-12-01,Long Island,18-34,White,Male,Online,Opt In,Active,No comment
+DON0001128,2024-05-01,Long Island,35-49,Hispanic or Latino,Male,DMV,Opt Out,Active,Preference clarification
+DON0001129,2025-09-01,Capital,18-34,Black or African American,Male,Online,Opt In,Active,No comment
+DON0001130,2024-02-01,Hudson,65+,Hispanic or Latino,Male,Other,Opt In,Active,Address update
+DON0001131,2024-04-01,Western,35-49,White,Female,Community Event,Opt In,Active,No comment
+DON0001132,2024-10-01,Metro,35-49,White,Female,DMV,Opt In,Active,Duplicate review
+DON0001133,2024-09-01,Capital,65+,White,Female,DMV,Opt In,Active,No comment
+DON0001134,2025-09-01,Metro,50-64,Asian,Female,DMV,Opt In,Active,No comment
+DON0001135,2025-01-01,Long Island,50-64,White,Male,DMV,Opt In,Deceased,No comment
+DON0001136,2025-10-01,Long Island,35-49,Black or African American,Female,DMV,Opt In,Inactive,Preference clarification
+DON0001137,2024-09-01,Long Island,35-49,White,Female,Online,Opt In,Active,No comment
+DON0001138,2025-07-01,Metro,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0001139,2025-09-01,Metro,18-34,White,Unknown,DMV,Opt In,Active,No comment
+DON0001140,2025-07-01,Metro,18-34,White,Male,DMV,Unknown,Active,No comment
+DON0001141,2024-10-01,Long Island,65+,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0001142,2025-07-01,Metro,65+,White,Male,DMV,Opt In,Active,No comment
+DON0001143,2025-04-01,Long Island,65+,White,Female,DMV,Opt In,Active,No comment
+DON0001144,2025-08-01,Metro,0-17,Other or Unknown,Male,DMV,Opt In,Active,No comment
+DON0001145,2024-10-01,Hudson,18-34,Asian,Female,Other,Opt In,Active,No comment
+DON0001146,2025-07-01,Central,65+,Hispanic or Latino,Male,Community Event,Opt In,Inactive,No comment
+DON0001147,2024-11-01,Hudson,0-17,Black or African American,Female,Other,Opt In,Active,No comment
+DON0001148,2024-06-01,Hudson,0-17,Asian,Female,DMV,Opt In,Active,No comment
+DON0001149,2025-02-01,Long Island,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0001150,2024-05-01,Western,35-49,White,Female,Hospital,Opt Out,Active,Needs follow-up
+DON0001151,2025-03-01,Capital,50-64,Black or African American,Male,Online,Opt In,Active,No comment
+DON0001152,2024-11-01,Western,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0001153,2025-07-01,Northern,35-49,White,Female,DMV,Opt Out,Active,No comment
+DON0001154,2025-02-01,Hudson,18-34,White,Male,Other,Opt In,Inactive,No comment
+DON0001155,2025-04-01,Metro,35-49,White,Male,Online,Opt Out,Active,No comment
+DON0001156,2024-02-01,Metro,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0001157,2024-07-01,Hudson,65+,Black or African American,Male,Community Event,Opt In,Active,Preference clarification
+DON0001158,2024-09-01,Metro,50-64,White,Female,Online,Opt In,Active,No comment
+DON0001159,2024-11-01,Long Island,0-17,Other or Unknown,Male,DMV,Opt In,Active,Needs follow-up
+DON0001160,2025-12-01,Metro,18-34,Other or Unknown,Female,Online,Unknown,Active,No comment
+DON0001161,2025-01-01,Metro,0-17,Hispanic or Latino,Unknown,DMV,Opt In,Active,No comment
+DON0001162,2024-06-01,Metro,65+,White,Female,Community Event,Unknown,Active,No comment
+DON0001163,2025-02-01,Long Island,50-64,White,Female,Online,Unknown,Active,Needs follow-up
+DON0001164,2025-03-01,Northern,0-17,White,Male,DMV,Opt Out,Active,No comment
+DON0001165,2025-09-01,Metro,18-34,White,Male,Other,Unknown,Active,No comment
+DON0001166,2024-01-01,Western,18-34,White,Male,Online,Opt In,Active,No comment
+DON0001167,2024-12-01,Western,0-17,Black or African American,Unknown,Online,Opt In,Active,No comment
+DON0001168,2024-12-01,Metro,65+,White,Male,DMV,Opt In,Active,No comment
+DON0001169,2025-09-01,Long Island,35-49,Asian,Female,Hospital,Opt In,Active,No comment
+DON0001170,2024-07-01,Northern,65+,White,Female,Hospital,Unknown,Active,No comment
+DON0001171,2024-07-01,Long Island,50-64,White,Female,Hospital,Opt In,Active,No comment
+DON0001172,2024-11-01,Central,50-64,Black or African American,Female,DMV,Opt Out,Active,Address update
+DON0001173,2025-01-01,Hudson,35-49,Black or African American,Male,Community Event,Opt In,Active,Preference clarification
+DON0001174,2025-01-01,Hudson,65+,White,Male,DMV,Opt In,Active,No comment
+DON0001175,2025-12-01,Long Island,35-49,Other or Unknown,Female,DMV,Unknown,Active,No comment
+DON0001176,2024-05-01,Hudson,35-49,Hispanic or Latino,Female,DMV,Opt In,Inactive,Address update
+DON0001177,2024-02-01,Long Island,35-49,Hispanic or Latino,Female,Community Event,Opt In,Inactive,No comment
+DON0001178,2024-07-01,Capital,0-17,Hispanic or Latino,Male,DMV,Opt Out,Active,No comment
+DON0001179,2025-04-01,Western,65+,White,Male,Community Event,Opt Out,Active,No comment
+DON0001180,2024-09-01,Metro,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0001181,2024-10-01,Central,18-34,White,Female,Hospital,Opt In,Active,No comment
+DON0001182,2024-02-01,Capital,35-49,White,Male,Online,Opt In,Active,No comment
+DON0001183,2025-05-01,Capital,18-34,Other or Unknown,Male,Online,Opt In,Active,No comment
+DON0001184,2024-12-01,Long Island,35-49,Hispanic or Latino,Female,Online,Unknown,Active,No comment
+DON0001185,2024-07-01,Metro,18-34,Other or Unknown,Male,DMV,Opt Out,Active,Needs follow-up
+DON0001186,2025-03-01,Western,35-49,White,Male,Other,Opt In,Active,No comment
+DON0001187,2025-02-01,Long Island,65+,White,Male,DMV,Opt Out,Active,No comment
+DON0001188,2025-12-01,Capital,35-49,White,Female,Online,Opt In,Inactive,No comment
+DON0001189,2025-09-01,Capital,65+,White,Female,DMV,Opt In,Deceased,No comment
+DON0001190,2025-07-01,Metro,65+,Hispanic or Latino,Female,DMV,Opt In,Active,Needs follow-up
+DON0001191,2025-02-01,Central,50-64,Hispanic or Latino,Female,DMV,Opt In,Active,Address update
+DON0001192,2024-05-01,Metro,0-17,White,Female,DMV,Opt In,Inactive,No comment
+DON0001193,2025-01-01,Long Island,18-34,Hispanic or Latino,Female,DMV,Opt In,Inactive,No comment
+DON0001194,2024-12-01,Long Island,35-49,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0001195,2024-11-01,Long Island,50-64,White,Female,Hospital,Opt In,Active,Needs follow-up
+DON0001196,2025-01-01,Long Island,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0001197,2025-07-01,Western,50-64,Black or African American,Male,Community Event,Opt In,Active,No comment
+DON0001198,2024-02-01,Long Island,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0001199,2025-01-01,Northern,18-34,Asian,Female,DMV,Opt In,Active,No comment
+DON0001200,2024-07-01,Capital,18-34,White,Female,Online,Opt In,Active,Address update
+DON0001201,2025-09-01,Hudson,50-64,White,Male,Other,Opt In,Active,Preference clarification
+DON0001202,2025-04-01,Metro,0-17,Other or Unknown,Male,Community Event,Opt In,Active,No comment
+DON0001203,2025-06-01,Metro,18-34,Asian,Male,Online,Unknown,Active,No comment
+DON0001204,2025-05-01,Metro,0-17,Hispanic or Latino,Male,Hospital,Opt Out,Active,No comment
+DON0001205,2025-07-01,Long Island,18-34,Black or African American,Female,Online,Opt In,Active,No comment
+DON0001206,2025-02-01,Hudson,35-49,White,Male,Other,Opt In,Active,No comment
+DON0001207,2025-07-01,Long Island,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0001208,2025-06-01,Metro,50-64,White,Female,Hospital,Opt In,Active,No comment
+DON0001209,2024-03-01,Metro,0-17,Black or African American,Female,Online,Opt In,Active,No comment
+DON0001210,2025-03-01,Metro,0-17,White,Male,DMV,Opt In,Active,No comment
+DON0001211,2024-04-01,Hudson,35-49,White,Male,DMV,Opt In,Active,Needs follow-up
+DON0001212,2024-02-01,Northern,35-49,White,Female,Hospital,Opt In,Active,No comment
+DON0001213,2025-05-01,Northern,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0001214,2024-04-01,Capital,0-17,White,Female,DMV,Opt In,Active,No comment
+DON0001215,2025-05-01,Metro,65+,White,Female,DMV,Opt In,Active,No comment
+DON0001216,2024-07-01,Central,35-49,White,Female,Online,Opt In,Active,No comment
+DON0001217,2025-11-01,Metro,65+,White,Female,Hospital,Opt In,Active,No comment
+DON0001218,2025-06-01,Metro,50-64,White,Female,Community Event,Opt Out,Inactive,Preference clarification
+DON0001219,2024-01-01,Metro,50-64,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0001220,2025-03-01,Metro,35-49,White,Male,Online,Opt In,Active,No comment
+DON0001221,2025-02-01,Northern,0-17,White,Female,Hospital,Unknown,Active,Needs follow-up
+DON0001222,2025-09-01,Western,65+,White,Male,Online,Opt Out,Active,No comment
+DON0001223,2024-07-01,Metro,50-64,White,Female,Other,Unknown,Active,Duplicate review
+DON0001224,2025-06-01,Long Island,50-64,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0001225,2024-11-01,Metro,50-64,White,Male,Community Event,Opt Out,Active,No comment
+DON0001226,2025-02-01,Hudson,18-34,White,Male,DMV,Opt In,Active,Preference clarification
+DON0001227,2024-06-01,Metro,0-17,Black or African American,Female,DMV,Opt Out,Active,No comment
+DON0001228,2024-09-01,Long Island,35-49,Black or African American,Female,DMV,Unknown,Active,No comment
+DON0001229,2024-07-01,Hudson,35-49,White,Male,Other,Opt In,Active,No comment
+DON0001230,2025-07-01,Metro,18-34,Asian,Female,DMV,Opt In,Active,No comment
+DON0001231,2024-02-01,Northern,65+,Other or Unknown,Female,DMV,Opt In,Active,No comment
+DON0001232,2024-12-01,Metro,18-34,Hispanic or Latino,Female,Other,Opt In,Deceased,No comment
+DON0001233,2025-06-01,Central,65+,White,Unknown,Online,Opt In,Active,No comment
+DON0001234,2025-02-01,Capital,50-64,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0001235,2024-05-01,Northern,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0001236,2024-03-01,Hudson,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0001237,2025-07-01,Western,35-49,White,Male,Community Event,Opt In,Deceased,No comment
+DON0001238,2024-10-01,Metro,0-17,Hispanic or Latino,Male,Hospital,Unknown,Active,No comment
+DON0001239,2025-06-01,Western,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0001240,2024-08-01,Western,65+,White,Female,Other,Opt In,Deceased,No comment
+DON0001241,2025-01-01,Western,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0001242,2024-09-01,Western,50-64,White,Female,Hospital,Opt In,Active,No comment
+DON0001243,2025-11-01,Hudson,65+,Black or African American,Female,DMV,Opt Out,Active,Address update
+DON0001244,2024-03-01,Long Island,0-17,Other or Unknown,Male,Online,Opt In,Active,No comment
+DON0001245,2025-07-01,Western,18-34,Asian,Female,Online,Opt Out,Active,Needs follow-up
+DON0001246,2025-02-01,Northern,18-34,White,Female,DMV,Opt In,Active,Address update
+DON0001247,2024-12-01,Metro,35-49,White,Unknown,DMV,Opt In,Inactive,No comment
+DON0001248,2024-09-01,Central,50-64,White,Female,Community Event,Opt In,Active,Needs follow-up
+DON0001249,2025-12-01,Long Island,35-49,White,Male,DMV,Opt Out,Inactive,Preference clarification
+DON0001250,2024-08-01,Metro,50-64,White,Male,Online,Opt In,Active,No comment
+DON0001251,2025-10-01,Metro,65+,White,Male,DMV,Opt In,Active,No comment
+DON0001252,2024-11-01,Western,50-64,White,Female,Online,Opt In,Active,No comment
+DON0001253,2025-09-01,Northern,18-34,Black or African American,Male,DMV,Unknown,Active,Preference clarification
+DON0001254,2025-10-01,Hudson,35-49,White,Female,Other,Opt In,Deceased,Address update
+DON0001255,2025-12-01,Central,65+,Hispanic or Latino,Female,DMV,Opt Out,Active,Preference clarification
+DON0001256,2024-10-01,Metro,35-49,White,Female,Online,Unknown,Active,Address update
+DON0001257,2024-02-01,Metro,65+,White,Female,Online,Opt In,Active,No comment
+DON0001258,2025-03-01,Long Island,18-34,Hispanic or Latino,Female,DMV,Opt In,Active,Address update
+DON0001259,2025-10-01,Metro,65+,White,Female,DMV,Opt In,Active,No comment
+DON0001260,2024-09-01,Long Island,50-64,White,Unknown,DMV,Opt In,Active,No comment
+DON0001261,2024-04-01,Central,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0001262,2024-11-01,Long Island,65+,White,Female,DMV,Opt In,Active,Duplicate review
+DON0001263,2024-12-01,Metro,18-34,Black or African American,Male,DMV,Opt Out,Active,No comment
+DON0001264,2025-11-01,Metro,0-17,White,Female,Online,Opt In,Active,Preference clarification
+DON0001265,2024-07-01,Capital,50-64,White,Male,Other,Opt In,Active,No comment
+DON0001266,2025-07-01,Metro,35-49,White,Female,Online,Opt In,Active,No comment
+DON0001267,2025-03-01,Hudson,35-49,White,Female,Online,Opt Out,Active,No comment
+DON0001268,2025-01-01,Metro,50-64,White,Female,Community Event,Unknown,Active,No comment
+DON0001269,2024-01-01,Capital,0-17,Asian,Male,Hospital,Opt In,Active,No comment
+DON0001270,2025-09-01,Hudson,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0001271,2024-09-01,Long Island,35-49,Hispanic or Latino,Male,Other,Opt Out,Deceased,No comment
+DON0001272,2024-08-01,Long Island,50-64,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0001273,2024-03-01,Capital,50-64,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0001274,2024-08-01,Metro,50-64,Black or African American,Male,DMV,Opt Out,Active,No comment
+DON0001275,2024-02-01,Northern,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0001276,2024-11-01,Long Island,18-34,White,Female,Hospital,Opt Out,Active,No comment
+DON0001277,2025-02-01,Long Island,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0001278,2025-05-01,Metro,65+,White,Male,Community Event,Opt In,Active,Address update
+DON0001279,2024-11-01,Metro,35-49,White,Female,DMV,Opt Out,Active,No comment
+DON0001280,2024-01-01,Metro,35-49,Other or Unknown,Male,DMV,Opt In,Active,No comment
+DON0001281,2025-08-01,Western,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0001282,2025-08-01,Hudson,0-17,White,Male,DMV,Opt In,Active,Preference clarification
+DON0001283,2025-06-01,Hudson,65+,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0001284,2024-08-01,Long Island,18-34,White,Male,Community Event,Opt In,Active,No comment
+DON0001285,2025-02-01,Metro,65+,White,Male,DMV,Opt Out,Deceased,Preference clarification
+DON0001286,2024-02-01,Metro,0-17,Hispanic or Latino,Female,Online,Opt Out,Active,No comment
+DON0001287,2024-03-01,Metro,50-64,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0001288,2024-11-01,Long Island,50-64,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0001289,2024-04-01,Long Island,65+,White,Female,Online,Opt In,Inactive,No comment
+DON0001290,2024-09-01,Long Island,65+,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0001291,2025-05-01,Metro,65+,Black or African American,Female,DMV,Opt In,Active,Address update
+DON0001292,2024-07-01,Metro,18-34,White,Male,DMV,Opt In,Active,Needs follow-up
+DON0001293,2024-05-01,Metro,50-64,Hispanic or Latino,Female,Online,Opt In,Active,Preference clarification
+DON0001294,2025-07-01,Metro,18-34,Hispanic or Latino,Male,Online,Opt Out,Active,No comment
+DON0001295,2025-06-01,Metro,65+,White,Female,Online,Opt In,Active,No comment
+DON0001296,2024-04-01,Northern,50-64,White,Female,Community Event,Opt In,Active,No comment
+DON0001297,2024-08-01,Central,65+,Asian,Male,Online,Opt In,Deceased,No comment
+DON0001298,2025-05-01,Capital,50-64,Asian,Female,Online,Unknown,Active,No comment
+DON0001299,2025-09-01,Metro,35-49,American Indian or Alaska Native,Male,Other,Unknown,Active,No comment
+DON0001300,2025-07-01,Metro,50-64,Black or African American,Female,Online,Opt In,Active,No comment
+DON0001301,2025-04-01,Metro,35-49,White,Male,DMV,Opt Out,Active,No comment
+DON0001302,2024-09-01,Central,50-64,White,Male,Hospital,Unknown,Active,No comment
+DON0001303,2024-06-01,Metro,18-34,White,Male,Online,Opt In,Active,Needs follow-up
+DON0001304,2024-11-01,Metro,18-34,White,Male,Other,Opt In,Active,No comment
+DON0001305,2025-09-01,Capital,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,Duplicate review
+DON0001306,2025-05-01,Long Island,0-17,Black or African American,Female,Other,Opt In,Active,Address update
+DON0001307,2025-04-01,Hudson,35-49,Asian,Male,DMV,Opt Out,Active,Needs follow-up
+DON0001308,2024-02-01,Hudson,65+,White,Male,Online,Unknown,Deceased,No comment
+DON0001309,2025-06-01,Metro,0-17,White,Female,DMV,Unknown,Active,Address update
+DON0001310,2024-09-01,Hudson,18-34,White,Male,Community Event,Opt In,Active,No comment
+DON0001311,2025-11-01,Metro,35-49,Hispanic or Latino,Female,Online,Opt In,Inactive,Preference clarification
+DON0001312,2025-10-01,Metro,18-34,White,Male,Other,Opt In,Active,No comment
+DON0001313,2025-06-01,Central,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,Duplicate review
+DON0001314,2025-05-01,Metro,65+,White,Female,Community Event,Opt In,Active,No comment
+DON0001315,2024-09-01,Central,50-64,White,Male,Hospital,Opt In,Deceased,No comment
+DON0001316,2025-06-01,Metro,65+,Other or Unknown,Female,DMV,Opt In,Active,Address update
+DON0001317,2025-01-01,Metro,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0001318,2025-11-01,Long Island,65+,White,Female,DMV,Opt In,Active,No comment
+DON0001319,2024-04-01,Metro,65+,White,Male,DMV,Opt Out,Inactive,Needs follow-up
+DON0001320,2024-08-01,Western,0-17,White,Male,DMV,Unknown,Active,Duplicate review
+DON0001321,2025-06-01,Metro,0-17,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0001322,2024-12-01,Hudson,35-49,White,Female,Community Event,Opt Out,Active,Duplicate review
+DON0001323,2025-02-01,Hudson,0-17,White,Male,Community Event,Opt In,Inactive,No comment
+DON0001324,2024-08-01,Metro,0-17,Asian,Male,DMV,Opt In,Active,Needs follow-up
+DON0001325,2025-10-01,Metro,35-49,Hispanic or Latino,Female,Hospital,Opt In,Active,Address update
+DON0001326,2025-06-01,Northern,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0001327,2024-09-01,Western,18-34,Asian,Male,DMV,Unknown,Active,No comment
+DON0001328,2024-04-01,Western,50-64,White,Female,DMV,Opt Out,Active,No comment
+DON0001329,2025-12-01,Long Island,0-17,Asian,Male,DMV,Opt In,Active,No comment
+DON0001330,2024-03-01,Central,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0001331,2025-09-01,Metro,50-64,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0001332,2025-07-01,Central,50-64,Other or Unknown,Male,Hospital,Unknown,Active,No comment
+DON0001333,2025-03-01,Metro,50-64,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0001334,2025-10-01,Capital,0-17,White,Male,Community Event,Opt In,Active,No comment
+DON0001335,2025-04-01,Hudson,50-64,Black or African American,Female,DMV,Opt Out,Active,No comment
+DON0001336,2024-08-01,Northern,18-34,White,Male,Online,Opt In,Active,Preference clarification
+DON0001337,2024-01-01,Hudson,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0001338,2024-09-01,Hudson,18-34,Black or African American,Female,Hospital,Opt Out,Active,No comment
+DON0001339,2024-04-01,Western,50-64,Other or Unknown,Male,Community Event,Opt Out,Inactive,No comment
+DON0001340,2025-02-01,Western,65+,Asian,Male,DMV,Opt Out,Active,No comment
+DON0001341,2024-01-01,Long Island,0-17,Black or African American,Female,Online,Unknown,Active,No comment
+DON0001342,2024-06-01,Metro,65+,White,Male,Online,Opt In,Active,No comment
+DON0001343,2025-08-01,Hudson,18-34,Hispanic or Latino,Male,Online,Opt In,Active,Duplicate review
+DON0001344,2025-06-01,Long Island,35-49,Other or Unknown,Female,DMV,Opt In,Deceased,Preference clarification
+DON0001345,2025-08-01,Capital,65+,White,Female,Online,Opt In,Active,Needs follow-up
+DON0001346,2025-10-01,Long Island,18-34,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0001347,2024-09-01,Western,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0001348,2025-04-01,Metro,0-17,White,Male,Online,Opt In,Active,No comment
+DON0001349,2025-09-01,Hudson,0-17,White,Male,Online,Opt Out,Active,Preference clarification
+DON0001350,2025-05-01,Long Island,65+,Hispanic or Latino,Female,DMV,Unknown,Active,No comment
+DON0001351,2024-01-01,Northern,50-64,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0001352,2024-10-01,Central,50-64,Asian,Female,Online,Opt Out,Active,No comment
+DON0001353,2025-04-01,Metro,0-17,White,Female,DMV,Opt In,Active,No comment
+DON0001354,2024-08-01,Metro,35-49,Other or Unknown,Unknown,Hospital,Opt In,Active,Needs follow-up
+DON0001355,2025-03-01,Metro,18-34,Other or Unknown,Female,DMV,Unknown,Active,Duplicate review
+DON0001356,2024-08-01,Long Island,18-34,White,Female,DMV,Opt In,Active,Preference clarification
+DON0001357,2025-12-01,Metro,50-64,White,Male,DMV,Opt In,Active,Needs follow-up
+DON0001358,2024-02-01,Metro,35-49,Asian,Female,Community Event,Opt In,Active,No comment
+DON0001359,2024-08-01,Long Island,0-17,Hispanic or Latino,Male,DMV,Opt Out,Active,No comment
+DON0001360,2024-02-01,Long Island,18-34,White,Male,Other,Opt In,Active,Preference clarification
+DON0001361,2025-08-01,Metro,50-64,Asian,Female,Online,Opt In,Active,No comment
+DON0001362,2024-09-01,Capital,65+,White,Male,Online,Opt In,Active,No comment
+DON0001363,2025-06-01,Metro,50-64,White,Female,DMV,Opt In,Active,Address update
+DON0001364,2025-07-01,Long Island,0-17,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0001365,2024-07-01,Metro,18-34,Black or African American,Female,Community Event,Opt Out,Active,No comment
+DON0001366,2025-05-01,Hudson,35-49,White,Male,Online,Opt In,Active,No comment
+DON0001367,2025-05-01,Metro,65+,White,Female,Online,Opt In,Active,Duplicate review
+DON0001368,2025-12-01,Western,35-49,White,Male,DMV,Opt Out,Deceased,No comment
+DON0001369,2025-02-01,Metro,50-64,White,Male,Hospital,Opt In,Active,No comment
+DON0001370,2025-12-01,Metro,35-49,White,Male,DMV,Unknown,Active,Address update
+DON0001371,2025-09-01,Hudson,65+,Hispanic or Latino,Female,Hospital,Opt In,Active,No comment
+DON0001372,2024-05-01,Metro,35-49,White,Female,Community Event,Opt In,Active,No comment
+DON0001373,2024-08-01,Capital,0-17,Hispanic or Latino,Male,Online,Opt In,Active,Address update
+DON0001374,2025-08-01,Metro,65+,Asian,Male,Online,Opt In,Active,No comment
+DON0001375,2024-05-01,Long Island,65+,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0001376,2024-06-01,Hudson,0-17,Asian,Male,Online,Opt In,Inactive,No comment
+DON0001377,2025-02-01,Hudson,50-64,White,Female,DMV,Unknown,Inactive,No comment
+DON0001378,2025-01-01,Metro,35-49,White,Male,Other,Opt Out,Active,No comment
+DON0001379,2025-02-01,Long Island,50-64,Hispanic or Latino,Female,Community Event,Unknown,Active,No comment
+DON0001380,2024-09-01,Northern,0-17,Black or African American,Male,DMV,Opt In,Deceased,No comment
+DON0001381,2025-10-01,Western,0-17,Hispanic or Latino,Male,Hospital,Unknown,Active,Duplicate review
+DON0001382,2024-12-01,Hudson,0-17,White,Female,DMV,Opt In,Active,No comment
+DON0001383,2025-02-01,Metro,35-49,Black or African American,Male,DMV,Opt Out,Active,No comment
+DON0001384,2025-09-01,Metro,35-49,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0001385,2024-03-01,Western,65+,American Indian or Alaska Native,Female,Other,Opt Out,Active,No comment
+DON0001386,2025-04-01,Long Island,0-17,White,Female,Online,Opt In,Active,No comment
+DON0001387,2024-05-01,Metro,18-34,Hispanic or Latino,Female,Online,Opt In,Active,Duplicate review
+DON0001388,2024-02-01,Metro,18-34,Black or African American,Female,Other,Opt In,Active,Preference clarification
+DON0001389,2025-09-01,Metro,0-17,Hispanic or Latino,Male,Community Event,Opt In,Active,No comment
+DON0001390,2025-03-01,Hudson,18-34,White,Female,Hospital,Unknown,Active,No comment
+DON0001391,2025-06-01,Metro,50-64,White,Male,DMV,Opt In,Active,Address update
+DON0001392,2025-02-01,Metro,35-49,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0001393,2024-12-01,Metro,50-64,White,Male,DMV,Opt In,Active,Preference clarification
+DON0001394,2024-02-01,Metro,35-49,White,Female,Online,Opt In,Active,No comment
+DON0001395,2025-08-01,Western,18-34,White,Female,Hospital,Opt In,Active,No comment
+DON0001396,2024-03-01,Long Island,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0001397,2025-05-01,Metro,0-17,White,Female,Hospital,Opt Out,Active,No comment
+DON0001398,2024-02-01,Metro,0-17,White,Female,DMV,Opt Out,Active,No comment
+DON0001399,2025-06-01,Metro,35-49,Asian,Male,DMV,Opt Out,Active,No comment
+DON0001400,2025-11-01,Long Island,0-17,White,Female,Online,Opt In,Deceased,Preference clarification
+DON0001401,2024-07-01,Western,18-34,White,Male,Online,Opt In,Active,Preference clarification
+DON0001402,2024-09-01,Capital,0-17,White,Female,Online,Opt Out,Active,No comment
+DON0001403,2025-08-01,Metro,35-49,Other or Unknown,Female,Online,Opt In,Active,No comment
+DON0001404,2025-04-01,Western,35-49,White,Female,Online,Opt In,Active,No comment
+DON0001405,2024-02-01,Metro,50-64,Black or African American,Female,DMV,Opt Out,Active,No comment
+DON0001406,2024-05-01,Long Island,35-49,Asian,Female,Online,Opt In,Active,No comment
+DON0001407,2024-10-01,Capital,0-17,Hispanic or Latino,Male,Online,Opt In,Active,No comment
+DON0001408,2024-06-01,Long Island,65+,White,Male,Community Event,Opt In,Active,No comment
+DON0001409,2024-03-01,Long Island,65+,Hispanic or Latino,Male,Community Event,Opt Out,Active,No comment
+DON0001410,2025-02-01,Hudson,35-49,White,Female,DMV,Opt Out,Active,No comment
+DON0001411,2025-06-01,Hudson,18-34,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0001412,2024-08-01,Hudson,50-64,Hispanic or Latino,Female,Other,Opt Out,Active,No comment
+DON0001413,2024-01-01,Capital,35-49,Black or African American,Male,DMV,Opt In,Inactive,No comment
+DON0001414,2024-01-01,Metro,18-34,White,Female,Community Event,Opt In,Active,No comment
+DON0001415,2024-03-01,Long Island,50-64,White,Male,DMV,Opt Out,Active,No comment
+DON0001416,2024-03-01,Metro,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0001417,2025-12-01,Long Island,18-34,White,Male,DMV,Opt In,Active,Duplicate review
+DON0001418,2024-08-01,Hudson,0-17,White,Female,DMV,Opt In,Active,No comment
+DON0001419,2024-05-01,Western,0-17,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0001420,2025-04-01,Central,35-49,Other or Unknown,Female,DMV,Opt In,Active,Needs follow-up
+DON0001421,2024-04-01,Western,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0001422,2025-01-01,Central,65+,Black or African American,Male,Community Event,Opt Out,Active,No comment
+DON0001423,2025-04-01,Long Island,18-34,Asian,Male,Online,Opt Out,Active,Address update
+DON0001424,2024-07-01,Long Island,65+,White,Male,DMV,Opt Out,Inactive,No comment
+DON0001425,2025-06-01,Long Island,50-64,Other or Unknown,Male,Hospital,Opt In,Active,Preference clarification
+DON0001426,2025-02-01,Hudson,50-64,Asian,Female,DMV,Opt In,Inactive,No comment
+DON0001427,2025-07-01,Northern,35-49,Black or African American,Male,Online,Opt In,Active,Preference clarification
+DON0001428,2025-11-01,Long Island,0-17,White,Female,Community Event,Opt Out,Active,No comment
+DON0001429,2025-02-01,Metro,65+,White,Female,Community Event,Opt In,Active,No comment
+DON0001430,2025-03-01,Long Island,65+,White,Male,DMV,Opt In,Active,No comment
+DON0001431,2025-12-01,Hudson,18-34,White,Female,Online,Opt Out,Active,No comment
+DON0001432,2024-11-01,Western,0-17,White,Female,DMV,Opt In,Active,No comment
+DON0001433,2025-03-01,Hudson,50-64,White,Male,Hospital,Opt Out,Active,No comment
+DON0001434,2025-02-01,Northern,50-64,White,Male,Online,Opt In,Active,No comment
+DON0001435,2024-01-01,Long Island,50-64,Hispanic or Latino,Female,Community Event,Opt In,Active,No comment
+DON0001436,2025-04-01,Long Island,35-49,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0001437,2024-05-01,Metro,35-49,White,Male,Online,Opt Out,Active,No comment
+DON0001438,2025-08-01,Metro,18-34,White,Male,Online,Opt Out,Active,No comment
+DON0001439,2025-06-01,Metro,0-17,White,Female,Other,Opt Out,Active,No comment
+DON0001440,2025-08-01,Hudson,65+,White,Female,DMV,Opt In,Active,Preference clarification
+DON0001441,2024-07-01,Metro,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0001442,2025-09-01,Long Island,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0001443,2024-05-01,Long Island,18-34,White,Male,DMV,Opt In,Active,Preference clarification
+DON0001444,2024-03-01,Western,0-17,Black or African American,Male,Online,Unknown,Active,Needs follow-up
+DON0001445,2025-03-01,Northern,18-34,Hispanic or Latino,Female,Hospital,Opt Out,Active,No comment
+DON0001446,2024-02-01,Long Island,35-49,White,Female,Other,Opt Out,Active,No comment
+DON0001447,2024-12-01,Hudson,0-17,Hispanic or Latino,Male,Online,Opt Out,Active,Preference clarification
+DON0001448,2025-03-01,Capital,35-49,Hispanic or Latino,Female,Other,Opt In,Active,No comment
+DON0001449,2025-04-01,Central,0-17,White,Male,DMV,Opt In,Inactive,No comment
+DON0001450,2025-03-01,Metro,35-49,White,Female,Online,Opt In,Active,No comment
+DON0001451,2024-06-01,Northern,18-34,Other or Unknown,Male,Hospital,Opt In,Active,No comment
+DON0001452,2024-01-01,Long Island,65+,White,Female,Online,Opt In,Active,No comment
+DON0001453,2025-12-01,Central,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0001454,2024-07-01,Western,18-34,White,Female,Other,Opt Out,Active,No comment
+DON0001455,2024-05-01,Metro,0-17,White,Male,Online,Opt Out,Active,No comment
+DON0001456,2024-06-01,Hudson,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0001457,2025-07-01,Western,35-49,White,Female,Community Event,Opt In,Deceased,No comment
+DON0001458,2024-01-01,Western,35-49,White,Male,Hospital,Opt In,Deceased,Address update
+DON0001459,2024-12-01,Metro,0-17,White,Female,DMV,Opt In,Active,No comment
+DON0001460,2024-09-01,Hudson,18-34,White,Male,Online,Opt Out,Active,No comment
+DON0001461,2024-02-01,Metro,0-17,White,Male,Community Event,Opt In,Active,Needs follow-up
+DON0001462,2024-02-01,Northern,0-17,White,Male,Online,Opt Out,Active,No comment
+DON0001463,2025-06-01,Metro,50-64,White,Female,Online,Opt In,Active,Duplicate review
+DON0001464,2024-05-01,Long Island,35-49,White,Female,Online,Opt In,Active,Needs follow-up
+DON0001465,2025-04-01,Western,18-34,White,Female,Online,Opt In,Active,No comment
+DON0001466,2025-01-01,Central,0-17,White,Male,Community Event,Unknown,Active,No comment
+DON0001467,2025-04-01,Hudson,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0001468,2025-05-01,Long Island,18-34,White,Female,Other,Opt In,Active,Needs follow-up
+DON0001469,2025-11-01,Metro,35-49,White,Female,DMV,Opt Out,Active,Address update
+DON0001470,2025-03-01,Metro,18-34,White,Male,DMV,Opt Out,Inactive,No comment
+DON0001471,2025-01-01,Metro,50-64,White,Male,Other,Opt In,Active,No comment
+DON0001472,2024-05-01,Hudson,65+,Asian,Female,Online,Opt In,Active,No comment
+DON0001473,2024-06-01,Metro,0-17,White,Male,Online,Opt In,Active,Needs follow-up
+DON0001474,2025-07-01,Long Island,0-17,Hispanic or Latino,Female,Community Event,Opt In,Inactive,Address update
+DON0001475,2024-12-01,Long Island,50-64,White,Female,Hospital,Opt Out,Active,No comment
+DON0001476,2025-01-01,Hudson,18-34,Asian,Female,Online,Opt Out,Active,No comment
+DON0001477,2025-04-01,Central,50-64,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0001478,2025-05-01,Metro,65+,American Indian or Alaska Native,Male,DMV,Opt In,Inactive,Duplicate review
+DON0001479,2024-11-01,Metro,0-17,White,Male,DMV,Opt In,Deceased,No comment
+DON0001480,2024-04-01,Metro,18-34,White,Male,Community Event,Opt In,Inactive,No comment
+DON0001481,2024-02-01,Metro,18-34,Asian,Female,Other,Opt In,Active,No comment
+DON0001482,2024-04-01,Western,50-64,Hispanic or Latino,Female,DMV,Opt Out,Active,Needs follow-up
+DON0001483,2025-03-01,Northern,0-17,Black or African American,Female,Community Event,Opt In,Active,No comment
+DON0001484,2025-07-01,Metro,65+,Asian,Female,DMV,Opt In,Active,Address update
+DON0001485,2025-11-01,Central,50-64,White,Female,Other,Opt In,Active,No comment
+DON0001486,2024-01-01,Metro,18-34,Other or Unknown,Male,Community Event,Unknown,Active,No comment
+DON0001487,2024-04-01,Long Island,18-34,White,Male,Hospital,Opt Out,Active,No comment
+DON0001488,2024-11-01,Long Island,18-34,White,Male,Online,Opt In,Active,Needs follow-up
+DON0001489,2024-06-01,Hudson,0-17,White,Female,Other,Unknown,Active,No comment
+DON0001490,2024-04-01,Metro,50-64,Black or African American,Male,Online,Opt In,Active,No comment
+DON0001491,2025-10-01,Western,65+,Asian,Female,Hospital,Opt In,Active,Address update
+DON0001492,2025-11-01,Metro,65+,White,Male,DMV,Opt In,Inactive,No comment
+DON0001493,2024-10-01,Metro,0-17,White,Female,Hospital,Opt In,Active,No comment
+DON0001494,2024-11-01,Hudson,0-17,White,Female,Hospital,Opt In,Active,No comment
+DON0001495,2025-05-01,Metro,65+,White,Female,DMV,Opt In,Active,No comment
+DON0001496,2025-02-01,Long Island,18-34,White,Female,DMV,Opt In,Active,Preference clarification
+DON0001497,2024-09-01,Capital,35-49,Asian,Female,Community Event,Opt Out,Active,No comment
+DON0001498,2025-07-01,Capital,50-64,White,Male,DMV,Opt Out,Active,No comment
+DON0001499,2024-06-01,Metro,18-34,White,Female,DMV,Opt Out,Active,Needs follow-up
+DON0001500,2025-12-01,Northern,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0001501,2024-06-01,Metro,65+,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0001502,2024-09-01,Northern,0-17,White,Female,Hospital,Opt Out,Active,No comment
+DON0001503,2025-07-01,Long Island,35-49,Black or African American,Male,DMV,Opt Out,Inactive,No comment
+DON0001504,2025-07-01,Metro,0-17,Asian,Male,DMV,Opt Out,Active,No comment
+DON0001505,2024-08-01,Long Island,35-49,White,Unknown,Online,Opt Out,Deceased,No comment
+DON0001506,2024-07-01,Metro,18-34,Other or Unknown,Male,Online,Opt In,Active,No comment
+DON0001507,2025-12-01,Metro,18-34,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0001508,2024-04-01,Metro,0-17,Black or African American,Female,DMV,Opt In,Inactive,Address update
+DON0001509,2025-06-01,Hudson,50-64,Black or African American,Female,Other,Opt In,Inactive,No comment
+DON0001510,2024-03-01,Long Island,18-34,Black or African American,Female,DMV,Opt In,Active,No comment
+DON0001511,2025-01-01,Capital,65+,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0001512,2024-04-01,Long Island,50-64,White,Female,Community Event,Opt Out,Active,Preference clarification
+DON0001513,2024-04-01,Long Island,18-34,Hispanic or Latino,Female,Community Event,Opt In,Active,No comment
+DON0001514,2024-03-01,Metro,50-64,White,Female,Online,Opt In,Active,No comment
+DON0001515,2025-08-01,Western,50-64,Black or African American,Male,DMV,Opt Out,Active,No comment
+DON0001516,2025-04-01,Hudson,65+,Black or African American,Male,Online,Opt In,Active,No comment
+DON0001517,2025-04-01,Metro,0-17,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0001518,2024-11-01,Metro,50-64,Black or African American,Male,Online,Opt In,Active,No comment
+DON0001519,2025-01-01,Capital,0-17,White,Unknown,Online,Opt Out,Inactive,Duplicate review
+DON0001520,2024-02-01,Central,35-49,Asian,Female,Hospital,Opt In,Active,No comment
+DON0001521,2025-05-01,Hudson,65+,Hispanic or Latino,Male,Other,Opt In,Active,No comment
+DON0001522,2025-12-01,Western,65+,White,Female,Community Event,Opt In,Active,No comment
+DON0001523,2024-01-01,Metro,18-34,Black or African American,Male,Hospital,Unknown,Active,Duplicate review
+DON0001524,2024-04-01,Northern,50-64,White,Male,DMV,Opt Out,Active,Needs follow-up
+DON0001525,2025-12-01,Long Island,50-64,White,Female,Online,Opt In,Active,No comment
+DON0001526,2024-10-01,Metro,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0001527,2025-03-01,Hudson,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0001528,2025-06-01,Long Island,35-49,White,Male,Hospital,Opt In,Active,No comment
+DON0001529,2025-12-01,Metro,65+,Hispanic or Latino,Unknown,DMV,Unknown,Active,No comment
+DON0001530,2025-08-01,Metro,65+,White,Male,Online,Opt In,Active,No comment
+DON0001531,2024-09-01,Western,18-34,Black or African American,Male,DMV,Opt In,Active,Address update
+DON0001532,2025-02-01,Hudson,35-49,Hispanic or Latino,Female,DMV,Opt In,Active,Needs follow-up
+DON0001533,2025-04-01,Long Island,65+,Black or African American,Female,Online,Opt Out,Active,No comment
+DON0001534,2025-10-01,Capital,18-34,Asian,Male,Online,Opt Out,Active,No comment
+DON0001535,2024-07-01,Metro,65+,White,Female,Community Event,Opt In,Active,No comment
+DON0001536,2024-11-01,Long Island,35-49,Other or Unknown,Female,Online,Opt In,Inactive,No comment
+DON0001537,2024-10-01,Northern,35-49,White,Female,DMV,Opt In,Active,Preference clarification
+DON0001538,2025-01-01,Northern,50-64,White,Female,DMV,Unknown,Active,No comment
+DON0001539,2025-04-01,Hudson,35-49,Black or African American,Female,Community Event,Opt In,Active,No comment
+DON0001540,2024-04-01,Capital,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,Duplicate review
+DON0001541,2025-12-01,Metro,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0001542,2025-10-01,Capital,0-17,Other or Unknown,Male,Hospital,Unknown,Active,Preference clarification
+DON0001543,2025-11-01,Long Island,65+,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0001544,2024-11-01,Northern,65+,White,Female,DMV,Opt In,Active,No comment
+DON0001545,2024-06-01,Metro,35-49,White,Male,Online,Opt Out,Active,No comment
+DON0001546,2025-01-01,Metro,65+,Asian,Unknown,DMV,Opt In,Active,No comment
+DON0001547,2025-06-01,Metro,18-34,White,Female,Online,Opt In,Active,Needs follow-up
+DON0001548,2024-06-01,Long Island,18-34,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0001549,2024-10-01,Metro,65+,Other or Unknown,Male,DMV,Unknown,Inactive,No comment
+DON0001550,2024-05-01,Western,65+,White,Female,DMV,Opt In,Active,No comment
+DON0001551,2025-05-01,Long Island,18-34,Other or Unknown,Male,DMV,Opt In,Active,No comment
+DON0001552,2024-01-01,Metro,0-17,White,Female,DMV,Opt In,Active,No comment
+DON0001553,2024-01-01,Hudson,65+,White,Female,DMV,Opt In,Active,Needs follow-up
+DON0001554,2025-03-01,Central,18-34,Asian,Male,Hospital,Opt In,Active,No comment
+DON0001555,2025-05-01,Metro,65+,Asian,Male,Online,Opt Out,Active,No comment
+DON0001556,2025-11-01,Western,35-49,White,Male,Online,Opt In,Active,No comment
+DON0001557,2024-02-01,Metro,50-64,Hispanic or Latino,Male,Other,Opt In,Active,No comment
+DON0001558,2024-08-01,Capital,0-17,White,Female,Other,Unknown,Active,Address update
+DON0001559,2024-12-01,Hudson,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0001560,2024-08-01,Northern,35-49,Asian,Female,Community Event,Opt In,Active,No comment
+DON0001561,2024-10-01,Central,35-49,White,Female,DMV,Unknown,Active,No comment
+DON0001562,2024-11-01,Metro,18-34,Hispanic or Latino,Unknown,Online,Opt Out,Active,Duplicate review
+DON0001563,2024-04-01,Long Island,50-64,Black or African American,Female,Online,Opt In,Active,Preference clarification
+DON0001564,2025-10-01,Capital,0-17,White,Male,Online,Opt In,Active,Preference clarification
+DON0001565,2024-04-01,Hudson,50-64,White,Male,DMV,Opt In,Active,Needs follow-up
+DON0001566,2025-03-01,Long Island,0-17,Black or African American,Female,Community Event,Unknown,Active,No comment
+DON0001567,2024-09-01,Metro,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0001568,2024-02-01,Long Island,35-49,White,Male,Community Event,Opt In,Active,No comment
+DON0001569,2025-01-01,Long Island,0-17,White,Female,Online,Opt In,Active,No comment
+DON0001570,2025-09-01,Metro,0-17,White,Female,DMV,Opt Out,Active,No comment
+DON0001571,2024-08-01,Long Island,35-49,Black or African American,Female,Hospital,Opt In,Active,Duplicate review
+DON0001572,2025-01-01,Metro,35-49,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0001573,2025-02-01,Western,0-17,Hispanic or Latino,Female,DMV,Opt In,Active,No comment
+DON0001574,2024-06-01,Metro,50-64,Hispanic or Latino,Male,DMV,Opt Out,Active,No comment
+DON0001575,2024-02-01,Metro,50-64,Other or Unknown,Male,DMV,Opt Out,Active,Needs follow-up
+DON0001576,2024-03-01,Western,50-64,Asian,Male,DMV,Opt In,Active,Preference clarification
+DON0001577,2024-11-01,Long Island,50-64,White,Male,Community Event,Opt In,Active,No comment
+DON0001578,2024-10-01,Metro,0-17,White,Male,DMV,Unknown,Active,Preference clarification
+DON0001579,2024-05-01,Central,35-49,White,Female,Hospital,Opt Out,Active,Address update
+DON0001580,2025-03-01,Metro,18-34,White,Male,Other,Opt In,Inactive,Needs follow-up
+DON0001581,2024-12-01,Metro,65+,American Indian or Alaska Native,Male,Online,Opt In,Inactive,Preference clarification
+DON0001582,2024-07-01,Long Island,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0001583,2025-09-01,Long Island,50-64,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0001584,2025-09-01,Long Island,35-49,Asian,Female,DMV,Unknown,Active,No comment
+DON0001585,2024-11-01,Western,35-49,Asian,Male,DMV,Opt In,Active,No comment
+DON0001586,2024-02-01,Long Island,50-64,White,Female,DMV,Opt In,Active,Address update
+DON0001587,2024-12-01,Western,18-34,Asian,Male,Community Event,Unknown,Active,Preference clarification
+DON0001588,2024-04-01,Hudson,65+,Black or African American,Male,Community Event,Opt In,Inactive,No comment
+DON0001589,2024-12-01,Metro,50-64,Hispanic or Latino,Male,DMV,Unknown,Deceased,No comment
+DON0001590,2025-03-01,Hudson,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0001591,2025-04-01,Metro,0-17,Hispanic or Latino,Male,Online,Opt Out,Active,No comment
+DON0001592,2024-06-01,Metro,50-64,Hispanic or Latino,Male,Hospital,Opt Out,Active,No comment
+DON0001593,2025-06-01,Metro,0-17,White,Female,DMV,Opt Out,Active,No comment
+DON0001594,2024-02-01,Central,0-17,White,Male,Online,Opt In,Active,Preference clarification
+DON0001595,2024-06-01,Hudson,50-64,White,Female,DMV,Opt In,Active,Preference clarification
+DON0001596,2025-12-01,Metro,18-34,White,Female,Community Event,Opt In,Active,Preference clarification
+DON0001597,2025-01-01,Metro,0-17,Other or Unknown,Female,Online,Opt In,Active,Needs follow-up
+DON0001598,2025-10-01,Metro,18-34,Asian,Female,DMV,Opt In,Active,No comment
+DON0001599,2025-05-01,Hudson,50-64,White,Male,Other,Opt In,Active,No comment
+DON0001600,2025-09-01,Central,35-49,Asian,Female,Online,Opt In,Active,No comment
+DON0001601,2024-03-01,Metro,35-49,White,Female,DMV,Opt In,Active,Preference clarification
+DON0001602,2025-07-01,Metro,50-64,American Indian or Alaska Native,Female,DMV,Opt In,Active,No comment
+DON0001603,2025-03-01,Long Island,35-49,Asian,Female,DMV,Opt Out,Active,No comment
+DON0001604,2024-01-01,Metro,0-17,White,Female,DMV,Opt Out,Active,No comment
+DON0001605,2024-07-01,Metro,18-34,White,Male,DMV,Opt In,Active,Address update
+DON0001606,2024-03-01,Metro,0-17,Asian,Female,DMV,Opt In,Active,No comment
+DON0001607,2024-08-01,Metro,65+,Other or Unknown,Unknown,Online,Opt In,Active,Address update
+DON0001608,2024-06-01,Central,18-34,Black or African American,Female,Online,Unknown,Active,No comment
+DON0001609,2025-01-01,Long Island,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0001610,2025-04-01,Metro,35-49,White,Male,Online,Opt In,Active,No comment
+DON0001611,2025-06-01,Metro,18-34,White,Male,DMV,Unknown,Active,No comment
+DON0001612,2025-07-01,Western,0-17,Hispanic or Latino,Female,Hospital,Opt In,Active,No comment
+DON0001613,2025-07-01,Long Island,65+,White,Female,DMV,Opt In,Deceased,No comment
+DON0001614,2024-08-01,Metro,18-34,White,Male,Community Event,Opt In,Active,No comment
+DON0001615,2025-07-01,Metro,50-64,Asian,Female,DMV,Opt Out,Active,No comment
+DON0001616,2025-08-01,Long Island,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0001617,2024-07-01,Metro,50-64,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0001618,2025-07-01,Hudson,35-49,White,Female,DMV,Opt In,Active,No comment
+DON0001619,2024-09-01,Metro,65+,White,Female,Online,Opt In,Active,Preference clarification
+DON0001620,2025-03-01,Hudson,50-64,White,Female,DMV,Opt In,Active,No comment
+DON0001621,2024-03-01,Metro,50-64,White,Female,Other,Opt In,Active,Preference clarification
+DON0001622,2025-03-01,Western,0-17,White,Female,Online,Opt In,Inactive,Duplicate review
+DON0001623,2024-09-01,Central,35-49,White,Female,Other,Opt In,Active,No comment
+DON0001624,2025-04-01,Western,18-34,White,Male,Other,Opt In,Active,No comment
+DON0001625,2025-01-01,Western,0-17,White,Female,Online,Opt In,Inactive,Preference clarification
+DON0001626,2024-12-01,Metro,35-49,White,Male,Online,Opt In,Active,No comment
+DON0001627,2024-02-01,Long Island,35-49,White,Male,Hospital,Opt In,Active,No comment
+DON0001628,2024-09-01,Capital,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0001629,2024-05-01,Capital,0-17,White,Male,Community Event,Opt In,Active,Address update
+DON0001630,2024-07-01,Metro,0-17,Black or African American,Male,DMV,Opt In,Inactive,Duplicate review
+DON0001631,2024-03-01,Western,35-49,American Indian or Alaska Native,Female,DMV,Opt In,Active,Preference clarification
+DON0001632,2024-08-01,Hudson,65+,Hispanic or Latino,Female,DMV,Opt In,Active,Preference clarification
+DON0001633,2024-08-01,Long Island,35-49,White,Female,Other,Opt In,Active,No comment
+DON0001634,2025-04-01,Northern,50-64,Black or African American,Female,DMV,Opt In,Active,Duplicate review
+DON0001635,2025-12-01,Long Island,65+,White,Male,Online,Opt Out,Active,No comment
+DON0001636,2024-09-01,Hudson,35-49,Black or African American,Male,Online,Unknown,Inactive,No comment
+DON0001637,2024-04-01,Western,50-64,Hispanic or Latino,Female,Hospital,Unknown,Deceased,Needs follow-up
+DON0001638,2025-03-01,Long Island,35-49,White,Male,DMV,Opt Out,Active,No comment
+DON0001639,2025-12-01,Long Island,65+,Black or African American,Female,Online,Opt Out,Active,Duplicate review
+DON0001640,2025-07-01,Long Island,35-49,White,Male,Other,Opt In,Active,No comment
+DON0001641,2025-07-01,Metro,0-17,White,Unknown,Community Event,Opt In,Active,Preference clarification
+DON0001642,2025-10-01,Capital,18-34,White,Male,Online,Opt In,Active,No comment
+DON0001643,2025-04-01,Metro,35-49,Hispanic or Latino,Female,Other,Opt In,Active,No comment
+DON0001644,2025-12-01,Western,18-34,White,Female,Online,Opt In,Active,No comment
+DON0001645,2025-07-01,Metro,18-34,Asian,Female,Hospital,Opt In,Active,No comment
+DON0001646,2024-01-01,Long Island,50-64,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment
+DON0001647,2024-04-01,Hudson,50-64,White,Female,Online,Opt Out,Active,No comment
+DON0001648,2024-12-01,Metro,50-64,White,Female,Community Event,Unknown,Active,Needs follow-up
+DON0001649,2025-04-01,Capital,18-34,Hispanic or Latino,Female,Community Event,Opt Out,Active,No comment
+DON0001650,2025-04-01,Long Island,18-34,Hispanic or Latino,Male,DMV,Opt In,Inactive,No comment
+DON0001651,2024-05-01,Hudson,18-34,Black or African American,Female,Hospital,Opt In,Active,No comment
+DON0001652,2025-08-01,Metro,50-64,Hispanic or Latino,Male,Community Event,Opt Out,Active,No comment
+DON0001653,2025-04-01,Long Island,35-49,Other or Unknown,Male,DMV,Opt In,Active,No comment
+DON0001654,2024-09-01,Long Island,18-34,Hispanic or Latino,Female,DMV,Unknown,Active,No comment
+DON0001655,2025-12-01,Metro,65+,White,Female,Online,Opt Out,Active,No comment
+DON0001656,2025-04-01,Metro,0-17,Hispanic or Latino,Female,Online,Opt In,Active,No comment
+DON0001657,2024-10-01,Long Island,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,Duplicate review
+DON0001658,2025-10-01,Hudson,35-49,White,Male,Online,Opt In,Active,No comment
+DON0001659,2024-07-01,Long Island,0-17,White,Male,DMV,Opt In,Active,No comment
+DON0001660,2025-09-01,Metro,65+,White,Female,DMV,Opt In,Active,Needs follow-up
+DON0001661,2025-03-01,Capital,18-34,White,Female,DMV,Unknown,Active,No comment
+DON0001662,2025-11-01,Long Island,50-64,White,Female,Online,Opt In,Active,No comment
+DON0001663,2025-10-01,Western,35-49,Black or African American,Male,Community Event,Opt Out,Active,No comment
+DON0001664,2025-06-01,Capital,18-34,White,Female,Online,Unknown,Active,Needs follow-up
+DON0001665,2025-05-01,Metro,18-34,White,Male,Online,Opt In,Active,No comment
+DON0001666,2024-05-01,Western,35-49,Black or African American,Female,Community Event,Opt In,Active,No comment
+DON0001667,2025-05-01,Northern,35-49,White,Male,Community Event,Unknown,Active,Address update
+DON0001668,2024-12-01,Hudson,50-64,Asian,Male,Other,Opt In,Active,No comment
+DON0001669,2024-01-01,Western,50-64,Black or African American,Male,Online,Opt In,Active,Address update
+DON0001670,2025-09-01,Metro,18-34,Black or African American,Male,DMV,Opt In,Active,No comment
+DON0001671,2024-02-01,Long Island,35-49,White,Female,DMV,Opt In,Inactive,Address update
+DON0001672,2024-11-01,Metro,35-49,American Indian or Alaska Native,Male,Other,Opt In,Active,Needs follow-up
+DON0001673,2024-10-01,Long Island,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0001674,2024-01-01,Metro,50-64,White,Female,Online,Opt In,Active,Preference clarification
+DON0001675,2025-10-01,Metro,50-64,White,Male,Hospital,Opt Out,Active,No comment
+DON0001676,2024-10-01,Western,18-34,White,Female,DMV,Unknown,Active,Address update
+DON0001677,2025-02-01,Western,35-49,Black or African American,Male,Online,Opt In,Active,Preference clarification
+DON0001678,2025-12-01,Metro,0-17,White,Female,DMV,Opt In,Active,No comment
+DON0001679,2024-09-01,Metro,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0001680,2024-01-01,Northern,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,Address update
+DON0001681,2024-01-01,Metro,35-49,Asian,Male,DMV,Opt In,Active,Address update
+DON0001682,2024-09-01,Western,50-64,White,Male,Community Event,Opt Out,Active,No comment
+DON0001683,2025-09-01,Hudson,18-34,Other or Unknown,Male,Online,Opt In,Active,No comment
+DON0001684,2024-08-01,Metro,50-64,White,Male,Online,Opt In,Active,Duplicate review
+DON0001685,2025-05-01,Metro,50-64,White,Female,Online,Opt In,Active,No comment
+DON0001686,2025-08-01,Long Island,50-64,White,Female,Online,Opt In,Active,No comment
+DON0001687,2025-02-01,Long Island,50-64,White,Female,Online,Unknown,Active,No comment
+DON0001688,2025-11-01,Metro,65+,White,Female,Community Event,Opt Out,Active,No comment
+DON0001689,2025-12-01,Long Island,18-34,White,Female,DMV,Opt In,Active,No comment
+DON0001690,2025-03-01,Long Island,35-49,Other or Unknown,Male,DMV,Unknown,Active,No comment
+DON0001691,2024-12-01,Metro,0-17,White,Female,DMV,Opt In,Active,No comment
+DON0001692,2025-10-01,Hudson,50-64,White,Female,Online,Unknown,Active,No comment
+DON0001693,2025-07-01,Metro,18-34,White,Male,Hospital,Opt Out,Active,No comment
+DON0001694,2024-07-01,Western,50-64,Asian,Male,Hospital,Opt In,Active,No comment
+DON0001695,2024-08-01,Western,50-64,Black or African American,Male,Online,Opt In,Inactive,No comment
+DON0001696,2024-01-01,Hudson,0-17,White,Male,Other,Opt In,Active,No comment
+DON0001697,2025-01-01,Metro,18-34,White,Female,Community Event,Opt Out,Active,Needs follow-up
+DON0001698,2025-01-01,Metro,65+,White,Female,Online,Opt In,Inactive,Preference clarification
+DON0001699,2024-11-01,Western,65+,Asian,Female,Community Event,Unknown,Active,Needs follow-up
+DON0001700,2025-01-01,Western,18-34,Black or African American,Male,Online,Opt Out,Active,Address update
+DON0001701,2024-09-01,Metro,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0001702,2025-05-01,Long Island,50-64,Asian,Female,DMV,Opt In,Active,No comment
+DON0001703,2024-01-01,Metro,50-64,Hispanic or Latino,Female,Online,Opt In,Active,Preference clarification
+DON0001704,2025-10-01,Capital,18-34,Black or African American,Female,DMV,Opt Out,Active,No comment
+DON0001705,2024-05-01,Metro,35-49,White,Female,Other,Opt In,Active,No comment
+DON0001706,2024-07-01,Metro,0-17,Other or Unknown,Female,DMV,Opt In,Active,No comment
+DON0001707,2025-08-01,Hudson,18-34,Asian,Male,Community Event,Opt Out,Inactive,Address update
+DON0001708,2025-07-01,Metro,50-64,White,Female,DMV,Opt In,Active,Duplicate review
+DON0001709,2025-01-01,Long Island,18-34,White,Female,Hospital,Opt Out,Active,No comment
+DON0001710,2025-12-01,Long Island,18-34,Black or African American,Male,DMV,Opt In,Deceased,Address update
+DON0001711,2025-06-01,Central,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0001712,2025-02-01,Hudson,65+,White,Female,DMV,Opt In,Active,No comment
+DON0001713,2024-09-01,Long Island,65+,Black or African American,Unknown,Online,Opt In,Active,No comment
+DON0001714,2025-09-01,Western,35-49,White,Male,Other,Opt In,Active,No comment
+DON0001715,2024-02-01,Metro,0-17,White,Male,DMV,Opt In,Active,No comment
+DON0001716,2024-06-01,Metro,0-17,White,Male,Online,Opt In,Active,No comment
+DON0001717,2024-09-01,Hudson,50-64,White,Male,Other,Opt In,Active,No comment
+DON0001718,2024-06-01,Hudson,18-34,Black or African American,Male,DMV,Opt In,Active,Address update
+DON0001719,2025-10-01,Hudson,50-64,White,Female,Online,Opt In,Active,No comment
+DON0001720,2024-07-01,Capital,35-49,Asian,Female,DMV,Opt In,Active,No comment
+DON0001721,2025-06-01,Metro,35-49,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0001722,2025-03-01,Long Island,35-49,White,Unknown,DMV,Opt Out,Inactive,Preference clarification
+DON0001723,2024-03-01,Metro,50-64,White,Male,Online,Unknown,Active,Needs follow-up
+DON0001724,2025-12-01,Metro,18-34,American Indian or Alaska Native,Female,Online,Opt Out,Active,No comment
+DON0001725,2024-04-01,Long Island,35-49,White,Male,Community Event,Opt In,Active,No comment
+DON0001726,2025-10-01,Capital,18-34,White,Female,Hospital,Opt Out,Active,No comment
+DON0001727,2024-09-01,Long Island,65+,White,Female,Online,Opt In,Active,No comment
+DON0001728,2024-12-01,Metro,65+,White,Male,Online,Opt In,Active,No comment
+DON0001729,2025-07-01,Long Island,18-34,Hispanic or Latino,Male,DMV,Opt In,Active,No comment
+DON0001730,2025-02-01,Metro,35-49,Other or Unknown,Female,Hospital,Opt Out,Active,No comment
+DON0001731,2024-06-01,Hudson,65+,Black or African American,Male,Online,Opt In,Active,Address update
+DON0001732,2025-07-01,Western,50-64,White,Male,DMV,Unknown,Active,No comment
+DON0001733,2025-02-01,Metro,18-34,Other or Unknown,Female,DMV,Opt In,Active,No comment
+DON0001734,2024-04-01,Metro,35-49,White,Male,DMV,Opt In,Active,No comment
+DON0001735,2024-04-01,Long Island,35-49,Hispanic or Latino,Female,Hospital,Opt In,Active,No comment
+DON0001736,2024-05-01,Long Island,18-34,Black or African American,Female,Online,Opt In,Active,Needs follow-up
+DON0001737,2024-09-01,Metro,18-34,Asian,Female,Hospital,Opt In,Active,Duplicate review
+DON0001738,2024-02-01,Metro,65+,White,Male,DMV,Unknown,Active,No comment
+DON0001739,2025-12-01,Metro,18-34,White,Male,DMV,Opt In,Active,No comment
+DON0001740,2025-10-01,Metro,0-17,White,Male,Hospital,Opt In,Active,No comment
+DON0001741,2025-05-01,Metro,50-64,White,Male,DMV,Opt In,Active,No comment
+DON0001742,2024-02-01,Long Island,50-64,Black or African American,Female,DMV,Unknown,Active,No comment
+DON0001743,2025-02-01,Metro,35-49,White,Male,Online,Opt In,Active,No comment
+DON0001744,2024-06-01,Capital,18-34,Hispanic or Latino,Female,Community Event,Opt In,Active,Address update
+DON0001745,2025-05-01,Metro,50-64,Hispanic or Latino,Unknown,Community Event,Opt In,Active,Address update
+DON0001746,2024-03-01,Capital,35-49,White,Male,Online,Opt Out,Active,No comment
+DON0001747,2024-07-01,Metro,18-34,Hispanic or Latino,Unknown,Other,Opt In,Active,No comment
+DON0001748,2025-06-01,Western,65+,American Indian or Alaska Native,Female,DMV,Opt In,Active,Needs follow-up
+DON0001749,2025-05-01,Metro,50-64,White,Male,Community Event,Opt In,Active,No comment
+DON0001750,2025-09-01,Long Island,35-49,Hispanic or Latino,Female,DMV,Opt Out,Active,No comment

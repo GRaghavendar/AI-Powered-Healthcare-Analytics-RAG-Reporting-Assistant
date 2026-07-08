@@ -1,0 +1,9 @@
+hospital_id,hospital_name,region,trauma_level,bed_count,pediatric_capable,total_cases,fatality_rate,icu_rate,ventilator_rate,avg_hospital_los_days,avg_ed_minutes
+H001,North River Trauma Center,Capital,Level I,620,True,932,5.36,26.18,11.59,6.24,240.7
+H005,Central County Hospital,Central,Level III,250,False,293,5.46,24.91,10.92,5.89,244.0
+H003,Hudson Valley Trauma Institute,Hudson,Level I,540,True,790,4.3,25.82,10.63,6.3,244.1
+H008,South Bay Trauma Center,Long Island,Level II,455,True,661,5.9,25.72,11.35,6.25,242.9
+H006,Harborview Emergency Hospital,Metro,Level I,700,True,996,5.02,27.51,11.55,6.34,244.3
+H004,Metro East Medical Center,Metro,Level II,365,False,425,5.18,26.59,10.35,6.36,240.9
+H007,Pine Hills Medical Center,Northern,Level III,215,False,251,5.18,31.47,11.55,6.33,246.5
+H002,Lakeview Regional Medical,Western,Level II,410,True,652,6.44,23.93,9.2,6.18,243.5

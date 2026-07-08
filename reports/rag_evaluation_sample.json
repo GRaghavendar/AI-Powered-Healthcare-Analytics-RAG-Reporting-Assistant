@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What are the main trauma metrics in this project?",
+    "expected_keywords": [
+      "fatality",
+      "icu",
+      "ventilator",
+      "length of stay",
+      "claims"
+    ],
+    "mode": "rag",
+    "sources_retrieved": true,
+    "source_count": 5,
+    "keyword_coverage_score": 0.8,
+    "answer_groundedness_score": 0.42,
+    "retrieval_top_k_score": 0.91,
+    "pass": true,
+    "notes": "Sample output format. Run healthcare-rag-eval to generate current local results."
+  },
+  {
+    "question": "Give a summary of the audit report for each facility.",
+    "expected_keywords": [
+      "facility",
+      "hospital",
+      "adult",
+      "pediatric",
+      "total"
+    ],
+    "mode": "rag",
+    "sources_retrieved": true,
+    "source_count": 5,
+    "keyword_coverage_score": 1.0,
+    "answer_groundedness_score": 0.51,
+    "retrieval_top_k_score": 1.0,
+    "pass": true,
+    "notes": "Expected to use report_structured or report_pdf evidence after rebuilding the RAG index."
+  }
+]
