@@ -1,7 +1,0 @@
-cd ai-powered-healthcare-analytics-rag-reporting-assistant
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-pip install -e .
-ollama pull llama3.1:8b
-python -m healthcare_analytics.pipeline --records 5000 --months 24 --seed 42 --build-rag-index --rag-ocr
-streamlit run app/streamlit_app.py
